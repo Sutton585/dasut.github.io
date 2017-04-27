@@ -1,6 +1,6 @@
-# David Sutton
-
-Human-Centered Design for User Experience and Interaction.
+---
+layout: default
+---
 
 - [admin@dasut.net](mailto:admin@dasut.net)
 - (267) 888 6613
