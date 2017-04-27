@@ -2,11 +2,7 @@
 layout: default
 ---
 
-- [admin@dasut.net](mailto:admin@dasut.net)
-- (267) 888 6613
-- Rochester, NY
-
-As a proud product of the technical design ecosystems at Rochester Institute of Technology, Apple, and Xerox, I’ve always worked to build great collaborative design communities and produce great products. My current work building Upstate UX is creating a space for designers to learn from each other and collaborate in the Rochester area.
+As a proud product of the technical design ecosystems at Rochester Institute of Technology, Apple, and Xerox, I’ve always worked to build great collaborative design communities and produce great products. Through [Upstate UX,](upstateUX.com) we are creating a space for designers to learn from each other and collaborate in the Rochester area.
 
 ## History
 
@@ -36,7 +32,7 @@ Designed and deployed custom websites on a freelance basis for companies and ind
 ## Other Experience
 
 ### Upstate User Experience Group
-Created UpstateUX.com for user experience professionals in Upstate New York to meet up for events, conferences, social gatherings, networking and general professional development. Ever expanding, with multiple events planned and partners and sponsors.
+Created [UpstateUX.com](UpstateUX.com) for user experience professionals in Upstate New York to meet up for events, conferences, social gatherings, networking and general professional development. Ever expanding, with multiple events planned and partners and sponsors.
 
 ### Luma Institute’s “Innovation through Human-Centered Design“
 Trained in the Luma Institute’s program on practices for innovation in human-centered design. Progressed all the way through the advanced HCD courses, qualifying as an instructor and facilitator of the Luma’s courses and putting their techniques into practice in cross-departmental teams. 
