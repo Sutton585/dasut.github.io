@@ -1,67 +1,50 @@
-
-## David Sutton
-Email:[admin@dasut.net](mailto:admin@dasut.net)
-Phone: (267) 888 6613
-Hometown: Rochester, NY
-
+# David Sutton
 
 Human-Centered Design for User Experience and Interaction.
 
+- Email:[admin@dasut.net](mailto:admin@dasut.net)
+- Phone: (267) 888 6613
+- Hometown: Rochester, NY
+
 As a proud product of the technical design ecosystems at Rochester Institute of Technology, Apple, and Xerox, I’ve always worked to build great collaborative design communities and produce great products. My current work building Upstate UX is to create a space for designers to learn from each other and collaborate in the Rochester area.
 
+## History
 
-### History
-
-#### Xerox
+### Xerox
 - UX/UI Interaction Design
 - 2015 - PRESENT
 
 Hired via Comforce as UI Design specialist at Xerox in Webster, NY in the Experience Design Group. I work in the design and development of User Interfaces for touchscreen devices. Integrating iterative user-centered design principles into product design and Information Architecture Design.
 
-
-#### Apple
+### Apple
 - UX User Interface Developer
 - 2013 - 2014
 
 Hired by Infosys Ltd. to be a UI/UX consultant at Apple Inc. in Cupertino, California. At Apple I designed and developed new UI, with a focus on rapid prototyping and testing. Primary focus in front-end development and technical product management.
 
-
-#### Rochester Institude of Technology
+### Rochester Institude of Technology
 - Interaction Design Assistant Teacher
 - 2012 - 2014
 
 Assisted in instruction, evaluation, and tutoring of students in the Human-centered computing program at Rochester Institute of Technology.
 
-#### Freelance/Independent Web Design and Development
+### Freelance/Independent Web Design and Development
 - 2010 - 2014
 
 Designed and deployed many custom websites on a freelance basis for companies and individuals around the Rochester NY area. Social media management, content aggregation and publishing.
 
-### Education
-Rochester Institute of Technology 2014 - Human-Centered Computing (Information Technology)
+## Other Experience
 
-Education focused on User Interface design, user-testing for user-centered iterative design practices.
+### Upstate User Experience Group
+Created UpstateUX.com for User Experience professionals in Upstate New York to meet up for events, conferences, social gatherings, networking and general professional development. Rapidly expanding, with multiple events planned and partners and sponsors in Rochester and Albany.
 
-Concentrations:
-	- Interaction Design, User Experience
-	- Web Design and Development
-
-####Crashtest Games
-Founded Crashtest Games, a very active design community at Rochester Institute of Technology. This is a resource to connect creators and users in a supportive and constructive social environment. The primary focus is encouraging proper iterative design processes via user-testing of games. Multiple weekly gatherings for different focuses of the group, as well as many yearly and bi-yearly events.
-
-
-### Other Experience
-
-#### Upstate User Experience Group
-Founded UpstateUX.com for User Experience professionals in Upstate New York to meet up for events, conferences, social gatherings, networking and general professional development. Rapidly expanding, with multiple events planned and partners and sponsors in Rochester and Albany.
-
-#### Luma Institute’s “Innovation through Human-Centered Design“
+### Luma Institute’s “Innovation through Human-Centered Design“
 Trained in the Luma Institute’s program on practices for innovation in human-centered design. Progressed all the way through the advanced HCD courses, qualifying as an instructor and facilitator of the Luma’s courses and putting their techniques into practice in cross-departmental teams. 
 
-Topics include:
-	- Leading a Culture of Innovation, Brainstorming, Problem Framing, Rapid Iteration and Product Testing, Prototyping, Ethnographic Research, User-testing and Interpretation.
+Topics include: Leading a Culture of Innovation, Brainstorming, Problem Framing, Rapid Iteration and Product Testing, Prototyping, Ethnographic Research, User-testing and Interpretation.
 
-### Technical Proficiencies
+## Technical Proficiencies
+
 - General Design:
 	- PhotoShop
 	- Illustrator
@@ -69,7 +52,6 @@ Topics include:
 - UX and Interface Design:
 	- inVision
 	- Axure
-	- Omnigraffle
 	- Balsamiq
 - Web Design:
 	- HTML5
@@ -77,10 +59,23 @@ Topics include:
 	- SASS
 	- LESS
 	- Bootstrap
-	- Jekyl 
+	- Jekyll 
 - Programming and Scripting:
 	- Javascript
 	- JQuery
 	- Git
 	- LaTeX
 	- Python
+
+## Education
+Rochester Institute of Technology 2014 - Human-Centered Computing (Information Technology)
+
+Education focused on User Interface design, user-testing for user-centered iterative design practices.
+
+Concentrations:
+
+	- Interaction Design, User Experience
+	- Web Design and Development
+
+###Crashtest Games
+Founded Crashtest Games, a very active design community at Rochester Institute of Technology. This is a resource to connect creators and users in a supportive and constructive social environment. The primary focus is encouraging proper iterative design processes via user-testing of games. Multiple weekly gatherings for different focuses of the group, as well as many yearly and bi-yearly events.
