@@ -2,124 +2,82 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+- [admin@dasut.net](mailto:admin@dasut.net)
+- (267) 888 6613
+- Rochester, NY
 
-[Link to another page](another-page).
+As a proud product of the technical design ecosystems at Rochester Institute of Technology, Apple, and Xerox, I’ve always worked to build great collaborative design communities and produce great products. My current work building Upstate UX is creating a space for designers to learn from each other and collaborate in the Rochester area.
 
-[resume](resume)
+## History
 
-There should be whitespace between paragraphs.
+### Xerox
+- UX/UI Interaction Design
+- 2015 - *present*
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Hired via Comforce as UI Design specialist at Xerox in Webster, NY in the Experience Design Group. I work in the design and development of user interfaces for touchscreen devices. Integrating iterative user-centered design principles into product design and information architecture design.
 
-# [](#header-1)Header 1
+### Apple
+- UX User Interface Developer
+- 2013 - 2014
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Hired via Infosys Ltd. to be a UI/UX consultant at Apple Inc. in Cupertino, California. At Apple I designed and developed new UI, with a focus on rapid prototyping and testing. Primary focus in front-end development and technical product management.
 
-## [](#header-2)Header 2
+### Rochester Institude of Technology
+- Interaction Design Assistant Teacher
+- 2012 - 2014
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Assisted in instruction, evaluation, and tutoring of students in the Human-centered computing program at Rochester Institute of Technology.
 
-### [](#header-3)Header 3
+### Freelance/Independent Web Design and Development
+- 2010 - 2014
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Designed and deployed custom websites on a freelance basis for companies and individuals around the Rochester NY area. Social media and blog management, content aggregation and publishing.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## Other Experience
 
-#### [](#header-4)Header 4
+### Upstate User Experience Group
+Created UpstateUX.com for user experience professionals in Upstate New York to meet up for events, conferences, social gatherings, networking and general professional development. Ever expanding, with multiple events planned and partners and sponsors.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+### Luma Institute’s “Innovation through Human-Centered Design“
+Trained in the Luma Institute’s program on practices for innovation in human-centered design. Progressed all the way through the advanced HCD courses, qualifying as an instructor and facilitator of the Luma’s courses and putting their techniques into practice in cross-departmental teams. 
 
-##### [](#header-5)Header 5
+Topics include: Leading a Culture of Innovation, Brainstorming, Problem Framing, Rapid Iteration and Product Testing, Prototyping, Ethnographic Research, User-testing and Interpretation.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## Technical Proficiencies
 
-###### [](#header-6)Header 6
+- General Design:
+  - PhotoShop
+  - Illustrator
+  - Sketch App
+- UX and Interface Design:
+  - inVision
+  - Axure
+  - Balsamiq
+- Web Design:
+  - HTML5
+  - CSS
+  - SASS
+  - LESS
+  - Bootstrap
+  - Jekyll 
+- Programming and Scripting:
+  - Javascript
+  - JQuery
+  - Git
+  - LaTeX
+  - Python
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+## Education
 
-### There's a horizontal rule below this.
+### Rochester Institute of Technology 
+Human-Centered Computing (Information Technology) 2014
 
-* * *
+Education focused on user interface design, user-centered iterative design practices, web development.
 
-### Here is an unordered list:
+#### Concentrations:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+- Interaction Design, User Experience
+- Web Design and Development
 
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+#### Crashtest Games
+Founded Crashtest Games, a very active design community at Rochester Institute of Technology. This is a resource to connect creators and users in a supportive and constructive social environment. The primary focus is encouraging proper iterative design processes via user-testing of games. Multiple weekly gatherings for different focuses of the group, as well as many yearly and bi-yearly events.
