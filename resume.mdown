@@ -74,7 +74,7 @@ Topics include: Leading a Culture of Innovation, Brainstorming, Problem Framing,
 
 Education focused on user interface design, user-centered iterative design practices, web development.
 
-###Concentrations:
+### Concentrations:
 
 - Interaction Design, User Experience
 - Web Design and Development
