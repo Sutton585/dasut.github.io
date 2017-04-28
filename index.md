@@ -4,7 +4,7 @@ layout: default
 
 As a proud product of the technical design ecosystems at Rochester Institute of Technology, Apple, and Xerox, I’ve always worked to build great collaborative design communities and produce great products. Through [Upstate UX,](upstateUX.com) we are creating a space for designers to learn from each other and collaborate in the Rochester area.
 
-## History
+## Recent Work History
 
 ### Xerox
 - UX/UI Interaction Design
@@ -29,7 +29,7 @@ Assisted in instruction, evaluation, and tutoring of students in the Human-cente
 
 Designed and deployed custom websites on a freelance basis for companies and individuals around the Rochester NY area. Social media and blog management, content aggregation and publishing.
 
-## Other Experience
+## Miscellaneous Experience
 
 ### Upstate User Experience Group
 Created [UpstateUX.com](UpstateUX.com) for user experience professionals in Upstate New York to meet up for events, conferences, social gatherings, networking and general professional development. Ever expanding, with multiple events planned and partners and sponsors.
