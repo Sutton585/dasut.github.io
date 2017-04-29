@@ -6,40 +6,22 @@ As a proud product of the technical design ecosystems at Rochester Institute of 
 
 ## Technical Proficiencies
 
-|General Design         |UX / UI / Prototyping  |Programming/Development|
+<!-- |General Design         |UX / UI / Prototyping  |Programming/Development|
 |:----------------------|:----------------------|:----------------------|
 |PhotoShop              |inVision               |HTML 5                 |
 |Sketch App             |Origami                |CSS                    |  
 |Illustrator            |framer.JS              |Javascript             |
 |                       |Axure                  |jQuery                 | 
 |                       |Balsamiq               |Bootstrap              |
-|                       |                       |LESS/SASS              |     
+|                       |                       |LESS/SASS              |      -->
 
-<!-- 
-\
+**General Design:** PhotoShop, Illustrator, Sketch App
 
-- General Design:
-  - PhotoShop
-  - Illustrator
-  - Sketch App
-- UX and Interface Design:
-  - inVision
-  - Axure
-  - Balsamiq
-- Web Design:
-  - HTML5
-  - CSS
-  - SASS
-  - LESS
-  - Bootstrap
-  - Jekyll 
-- Programming and Scripting:
-  - Javascript
-  - JQuery
-  - Git
-  - LaTeX
-  - Python -->
+**UX and Interface Design:** inVision, Axure, Balsamiq
 
+**Web Design:** HTML5, CSS, SASS, LESS, Bootstrap, Jekyll 
+
+**Programming and Scripting:** Javascript, JQuery, Git, LaTeX, Python
 
 ## Recent Employment
 
