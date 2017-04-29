@@ -4,6 +4,43 @@ layout: default
 
 As a proud product of the technical design ecosystems at Rochester Institute of Technology, Apple, and Xerox, I’ve always worked to build great collaborative design communities and produce great products. Through [Upstate UX,](http://upstateUX.com) we are creating a space for designers to learn from each other and collaborate in the Rochester area.
 
+## Technical Proficiencies
+
+|General Design         |UX / UI / Prototyping  |Programming/Development|
+|:----------------------|:----------------------|:----------------------|
+|PhotoShop              |inVision               |HTML 5                 |
+|Sketch App             |Origami                |CSS                    |  
+|Illustrator            |framer.JS              |Javascript             |
+|                       |Axure                  |jQuery                 | 
+|                       |Balsamiq               |Bootstrap              |
+|                       |                       |LESS/SASS              |     
+
+<!-- 
+\
+
+- General Design:
+  - PhotoShop
+  - Illustrator
+  - Sketch App
+- UX and Interface Design:
+  - inVision
+  - Axure
+  - Balsamiq
+- Web Design:
+  - HTML5
+  - CSS
+  - SASS
+  - LESS
+  - Bootstrap
+  - Jekyll 
+- Programming and Scripting:
+  - Javascript
+  - JQuery
+  - Git
+  - LaTeX
+  - Python -->
+
+
 ## Recent Employment
 
 ### Xerox
@@ -38,30 +75,6 @@ Created [UpstateUX.com](http://UpstateUX.com) for user experience professionals 
 Trained in the Luma Institute’s program on practices for innovation in human-centered design. Progressed all the way through the advanced HCD courses, qualifying as an instructor and facilitator of the Luma’s courses and putting their techniques into practice in cross-departmental teams. 
 
 Topics include: Leading a Culture of Innovation, Brainstorming, Problem Framing, Rapid Iteration and Product Testing, Prototyping, Ethnographic Research, User-testing and Interpretation.
-
-## Technical Proficiencies
-
-- General Design:
-  - PhotoShop
-  - Illustrator
-  - Sketch App
-- UX and Interface Design:
-  - inVision
-  - Axure
-  - Balsamiq
-- Web Design:
-  - HTML5
-  - CSS
-  - SASS
-  - LESS
-  - Bootstrap
-  - Jekyll 
-- Programming and Scripting:
-  - Javascript
-  - JQuery
-  - Git
-  - LaTeX
-  - Python
 
 ## Education
 
