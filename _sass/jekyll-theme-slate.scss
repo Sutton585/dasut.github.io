@@ -330,12 +330,22 @@ Full-Width Styles
 
 #downloads {
   position: absolute;
-  width: 210px;
+  /*width: 210px;*/
   z-index: 10;
   bottom: -40px;
   right: 0;
   height: 70px;
   /*background: url('../images/icon_download_social.png') no-repeat 0% 90%;*/
+}
+
+.email_link {
+  display: block;
+  float: right;
+  width: 90px;
+  height:70px;
+  text-indent: -5000px;
+  overflow: hidden;
+  background: url(../images/email_link_social.png) no-repeat bottom left;
 }
 
 .twitter_link {
@@ -357,6 +367,10 @@ Full-Width Styles
   overflow: hidden;
   background: url(../images/sprite_download_social.png) no-repeat bottom right;
   margin-left: 10px;
+}
+
+.email_link:hover {
+  background: url(../images/email_link_social.png) no-repeat top left;
 }
 
 .twitter_link:hover {
