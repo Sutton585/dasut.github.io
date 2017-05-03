@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 As a proud product of the technical design ecosystems at Rochester Institute of Technology, Apple, and Xerox, I’ve always worked to build great collaborative design communities and produce great products. Through [Upstate UX,](http://upstateUX.com) we are creating a space for designers to learn from each other and collaborate in the Rochester area.
 
 ## Technical Proficiencies
@@ -18,7 +17,7 @@ As a proud product of the technical design ecosystems at Rochester Institute of 
 
 ### Xerox
 - UX/UI Interaction Design
-- 2015 - *present*
+- 2015 - *PRESENT*
 
 Hired via Comforce as UI Design specialist at Xerox in Webster, NY in the Experience Design Group. I work in the design and development of user interfaces for touchscreen devices. Integrating iterative user-centered design principles into product design and information architecture design.
 
