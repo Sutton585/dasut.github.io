@@ -2,7 +2,7 @@
 layout: nonHome
 ---
 
->**Disclaimer:** This is not an exhaustive list of all my work, it’s a taste of what I do on my own time to give you a feel for who I am. To comply with non-disclosure agreements, I do not make available any of the work I have contributed to with either Xerox or Apple unless express permission is given.
+>**Disclaimer:** This is not an exhaustive list of all my work, it’s a taste of what I do on my own time to give you a feel for who I am. To comply with non-disclosure agreements, I do not make available all of the work I have contributed to with either Xerox or Apple unless express permission is given.
 
 *This page is a work-in-progress. An older version of all of this can be seen at [DavidSutton.net](http://DavidSutton.net)*
 
@@ -19,13 +19,13 @@ layout: nonHome
 
 [Xerox Summary of Reviews](http://connect.blogs.xerox.com/2017/02/28/the-reviews-are-in-and-theyre-winners/)
 
-[Complete review from BuyersLab, the standard for high-quality testing of document and digital imaging products.](https://www.buyerslab.com/News/Industry-News/2016/November/New-Xerox-Color-Printer-and-MFP-for-Small-Offices)
+[Complete review from BuyersLab](https://www.buyerslab.com/News/Industry-News/2016/November/New-Xerox-Color-Printer-and-MFP-for-Small-Offices), the standard for high-quality testing of document and digital imaging products.
 
 ### Summary
 
 I was brought on as the UI Design specialist at Xerox in Webster, NY in the Experience Design Group for the new generation of mobile-like interfaces. I work mostly in the design and development of UI for touchscreen devices. Integrating iterative user-centered design principles into product design and information architecture design.
 
-If you've watched the UI video above, you can imagine why they needed a designer with technical know-how and experience with mobile UX.
+If you've watched the UI video above, you can imagine why they needed a designer that has experience with mobile UX.
 
 ## Trello Job App
 
