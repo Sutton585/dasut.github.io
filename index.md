@@ -1,13 +1,15 @@
 ---
 layout: default
 ---
+>[Download PDF Resume](https://www.dropbox.com/s/0cou0fmpywi4ds9/dasut.pdf?dl=1)
+
 As a proud product of the technical design ecosystems at Rochester Institute of Technology, Apple, and Xerox, I’ve always worked to build great collaborative design communities and produce great products. Through [Upstate UX,](http://upstateUX.com) we are creating a space for designers to learn from each other and collaborate in the Rochester area.
 
 ## Technical Proficiencies
 
 **General Design:** [PhotoShop](http://www.adobe.com/products/photoshop.html), [Illustrator](http://www.adobe.com/products/illustrator.html), [Sketch App](https://www.sketchapp.com/)
 
-**UX and Interface Design:** [inVision](https://www.invisionapp.com/), [Axure](https://www.axure.com/), [Balsamiq](https://balsamiq.com/)
+**UX and Interface Design:** [inVision](https://www.invisionapp.com/), [Framer.js](https://github.com/koenbok/Framer), [Axure](https://www.axure.com/), [Framer Studio](https://www.framer.com), [Balsamiq](https://balsamiq.com/)
 
 **Web Design:** HTML5, CSS, [SASS](http://sass-lang.com/), [LESS](http://lesscss.org/), [Bootstrap](http://getbootstrap.com/), [Jekyll](https://jekyllrb.com) 
 
