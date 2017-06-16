@@ -2,7 +2,7 @@
 layout: nonHome
 ---
 
->**Disclaimer:** This is not an exhaustive list of all my work, it’s a taste of what I do on my own time to give you a feel for who I am. To comply with non-disclosure agreements, I do not make available all of the work I have contributed to with either Xerox or Apple unless express permission is given.
+>**Disclaimer:** This is not an exhaustive list of all my work, it’s a taste of what I do on my own time to give you a feel for who I am. To comply with non-disclosure agreements, _I do not make available all of the work I have contributed to with either Xerox or Apple unless express permission is given._
 
 *This page is a work-in-progress. An older version of all of this can be seen at [DavidSutton.net](http://DavidSutton.net)*
 
