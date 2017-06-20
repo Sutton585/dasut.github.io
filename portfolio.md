@@ -27,7 +27,7 @@ If you've watched the UI video above, you can imagine why they needed a designer
 
 [Complete review from BuyersLab](https://www.buyerslab.com/News/Industry-News/2016/November/New-Xerox-Color-Printer-and-MFP-for-Small-Offices), the standard for high-quality testing of document and digital imaging products.
 
-### [Detailed Description of Independent Study](/IndStudyNotes.html)
+### [Description of Interaction Design Program](/IndStudyNotes.html)
 
 This is a description of areas of study involved in a course designed for my IT concentration Interactive Design at Rochester Institute of Technology.
 
