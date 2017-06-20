@@ -59,7 +59,7 @@ This is the online poll given out to RIT students to gauge need and interest in 
 #### [Features and content of new Mapping Application](/MapAppDocs)
 Once we had fully committed to addressing the mapping issue, we discussed further features that could be added to the application. Feature creep was becoming a major concern, but much of this document is a direct result of my one-on-one discussion with our very excited professor that had all sorts of new technology he thought would fit perfectly in our project. As a result, our simple mapping application now has augmented reality and social features, as well as customized suggestions based on their class schedule and lots of GPS features similar to Waze.
 
-## [Trello Job App](](http://www.davidsutton.net/portfolio/trello-resume-importer/))
+## Trello Job App
 
 >[Here's a link to the design on my older website](http://www.davidsutton.net/portfolio/trello-resume-importer/), the page you're viewing right now is a work-in-progress.
 
