@@ -1,46 +1,8 @@
+---
+layout: nonHome
+---
+
 # Indepent Study #3 Overall Data/Notes
-###David Sutton
-
-<!-- MarkdownTOC -->
-
-- Overview
-- Educational Outcomes
-	- Proficiency With Design Tools
-	- Application of Iterative Design Processes and Collaborative Tools
-	- Production of Physical Prototype, Exploration of Production Methods
-- Deliverables
-	- Brief Explanation of Design Tools/Decisions
-		- Major Design Tools Used in the this Project
-		- More Detailed Look at the Role of these Tools
-			- Adobe Photoshop
-			- Adobe Illustrator
-			- Adobe Fireworks
-			- Adobe InDesign
-	- Explanation of Tools for Managing Iterative Design Process
-		- Requirements
-		- Tools Used and Researched
-			- Evernote
-				- Functionality and Context
-				- Strengths
-				- Weaknesses
-				- Assessment of Utility for Our Purposes
-			- Dropbox
-				- Functionality and Context
-				- Strengths
-				- Weaknesses
-				- Assessment of Utility for Our Purposes
-			- Git
-				- Functionality and Context
-				- Strengths
-				- Weaknesses
-				- Assessment of Utility for Our Purposes
-	- Methods of Production for Physical Prototypes
-		- PrinterStudio.com
-		- TheGameCrafter.com
-
-<!-- /MarkdownTOC -->
-
-
 
 ## Overview
 This course will explore the processes and needs of managing large interactive design projects. This includes improved competence and research of various design software, version control systems, tasks outsourcing practices and physical production methods. A portion of art content for the project will be outsourced, requiring collaborative tools and experience in managing "contact work".
@@ -52,7 +14,6 @@ Currently, there are no courses offering this focus, as it would concentrate in 
 Before beginning this project, I wouldn't have considered myself familiar with any of the standard design tools used such as the Adobe Products Photoshop, Illustrator, InDesign, Fireworks.
 
 Now that I have had time to work on independent study projects and learn at my own pace, I can be much more confident in my abilities with these tools. Some got a lot more use than others, I ended up mostly just using Photoshop, and learning the basics of the rest of the creative suite. At this point, I feel very comfortable with Photoshop, and would consider myself very proficient in it's use, this was a specific goal of mine for this project, and I feel I succeeded even more than I could have predicted.
-
 
 ### Application of Iterative Design Processes and Collaborative Tools
 There are multiple approaches I have tested in the realm of managing the iterative design process. I will include a write-up on the pros and cons of each of my approaches I have used, and which ones I believe have significant strengths for which sorts of projects.
@@ -70,7 +31,6 @@ Prior to this particular independent study, I had already been invovled with the
 	- Lessons learned on collaborative work
 - Physical implementation of design
  	- Details on production of physical prototype
-
 
 ### Brief Explanation of Design Tools/Decisions
 #### Major Design Tools Used in the this Project
@@ -112,9 +72,7 @@ If in future projects, I get into a situation where I need to generate even more
 
 On the whole, InDesign is invaluable to the design process, as it is generally used as the format of any given template. For my prototype of cards for a game, I could have utilized InDesign even more than I already did, by creating a template in InDesign from which I could derive all my cards. In practice, however, since I only actually required image editing that is more simply and efficiently handled in Photoshop, in the end I ended up mostly just using Photoshop for all the final assets for printing.
 
-
 ### Explanation of Tools for Managing Iterative Design Process
-
 
 
 #### Requirements
@@ -139,7 +97,6 @@ For each approach, I will have the heading be the primary software focus of the 
 
 
 ##### Evernote
-
 
 
 ###### Functionality and Context
@@ -171,7 +128,6 @@ Unfortunately, since everything is synced across all devices and even onto the E
 Dropbox is a program that creates a special folder on your device, and then makes sure that folder stays in sync across all devices. All the content is also available on devices where the program is not installed by using the file browser on Dropbox.com once you've logged in.
 
 Dropbox can also support having multiple Dropbox users sharing access to the same files, so when one user makes a change, it is reflected in the other users copy of the data as well. This has made it very popular for college students working on collaborative projects. It's simple and intuitive, and you can put any sort of file you want in there, and all it does is keep everyone's files up to date, it doesn't interpret the files, it just syncs them.
-
 
 ###### Strengths
 - Easy to use
@@ -233,7 +189,6 @@ For tracking text files, and managing larger projects with multiple contributors
 Much like Dropbox, most of my documentation ended up being with markdown files, which similarly to Dropbox, are also supported in the online service GitHub. That means you can always go to your GitHub project online and read all your documentation, as well as make changes, and manage the workflow of everyone involved.
 
 If there was someway to have this easy to use and detailed version management for things like Photoshop files, this would be the single solution for every project ever. As it stands, it's primary focus is on software source code, but the potential for other text applications is huge. The technical barrier to entry is the only thing stopping it from widespread use by people like authors, though more and more creative writers are catching on and writing in markdown, using Git for controlling changes and making sure they and their editors are working off the same documents, signing off on each other's changes.
-
 
 ### Methods of Production for Physical Prototypes
 

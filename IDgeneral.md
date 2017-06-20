@@ -1,3 +1,7 @@
+---
+layout: nonHome
+---
+
 # Why Iterative Design?
 
 For Low-budget and Low-barrier projects, this can be the most productive approach. It's main strength is that you can repeat for as many iterations as you need. One of the biggest assets of the iterative design pattern I will outine is it's simplicty and abilty to be adapted to many types of design projects.
@@ -23,10 +27,10 @@ The last section of this project will be reviewing were to find additional infor
 # Development Cycle
 Interaction Design generally follows a similar development cycle:
 
-	1. Gathering Requirements
-	2. Designing a Solution Addressing Requirements
-	3. Develop the Product
-	4. Testing
+1. Gathering Requirements
+2. Designing a Solution Addressing Requirements
+3. Develop the Product
+4. Testing
 
 Testing is not simply the final stop here; it is the first part of the next cycle. Testing (step 4) will inform your approach to Gathering Requirements (step 1).
 
@@ -36,15 +40,12 @@ Example: Adapting this model for development of a video game:
 
 Video Game Design, for example, can redefine its development cycle to address the needs of a large team and time for creating the actual assets. It has strict limitations on how much iteration can be feasible. Our basic outline for Interaction Design can be adapted for such an environment in a few different ways, one of which might look like this:
 
-	1. Concept Development/Gathering Requirements for build
-	2. Preproduction/Development
-	3. Nearing-complete builds completed for testing (i.e. Alpha and Beta builds)
-	4. Testing
+1. Concept Development/Gathering Requirements for build
+2. Preproduction/Development
+3. Nearing-complete builds completed for testing (i.e. Alpha and Beta builds)
+4. Testing
 
 This still follows our criteria, and can be iterated as many times as budget allows. On the first iteration, you would logically start at Concept Development, and after the first cycle, that step would become "Gathering Requirements" as you are integrating the information from testing.
-
-
-
 
 ## Step One: Gathering Requirements
 

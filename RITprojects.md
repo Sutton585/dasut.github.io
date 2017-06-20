@@ -1,3 +1,7 @@
+---
+layout: nonHome
+---
+
 #RIT-Related Projects
 These are relevant documents that were used for projects at RIT.
 
