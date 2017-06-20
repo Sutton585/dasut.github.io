@@ -27,15 +27,15 @@ If you've watched the UI video above, you can imagine why they needed a designer
 
 [Complete review from BuyersLab](https://www.buyerslab.com/News/Industry-News/2016/November/New-Xerox-Color-Printer-and-MFP-for-Small-Offices), the standard for high-quality testing of document and digital imaging products.
 
-### [Iterative Design Documentation](IDgeneral)
-
-In a section of my Interactive Design HCI concentration, I wrote this report on how to streamline a process for user-centric iterative design that focused on quickly moving from user testing to design revisions. This is the first half of that report.
-My original hypothesis was that I would create a tiny easy to run project, and let future revisions be completely dictated by what could be learned from user-testing. This requires very fast prototyping and streamlined testing.
-The specifics of the exact project used as a proof-of-concept are in another document.
-
 ### [Detailed Description of Independent Study](/IndStudyNotes.html)
 
 This is a description of areas of study involved in a course designed for my IT concentration Interactive Design at Rochester Institute of Technology.
+
+### [Iterative Design Documentation](IDgeneral)
+
+In a section of my Interactive Design HCI concentration, I wrote about how to streamline a process for user-centric iterative design that focused on quickly moving from user testing to design revisions. This is the first half of that report.
+My original hypothesis was that I would create a tiny easy to run project, and let future revisions be completely dictated by what could be learned from user-testing. This requires very fast prototyping and streamlined testing.
+The specifics of the exact project used as a proof-of-concept are in another document.
 
 ## RIT Underground Mapping Project
 
