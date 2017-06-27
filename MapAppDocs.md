@@ -2,7 +2,7 @@
 layout: nonHome
 ---
 
-#Social Media Interaction Element for SmartPhone Application
+# Social Media Interaction Element for SmartPhone Application
  
 Overall system will pull the following information from SIS:
 
