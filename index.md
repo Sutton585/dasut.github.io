@@ -21,7 +21,9 @@ As a proud product of the technical design ecosystems at Rochester Institute of 
 - UX/UI Interaction Design
 - 2015 - *PRESENT*
 
-Hired via Comforce as UI Design specialist at Xerox in Webster, NY in the Experience Design Group. I work in the design and development of user interfaces for touchscreen devices. Integrating iterative user-centered design principles into product design and information architecture design.
+Hired via Comforce as UI Design specialist at Xerox in Webster, NY in the Experience Design Group. As a major part of our multidisciplinary UX team, I work in the design and development of user interfaces for touchscreen devices. Integrating iterative user-centered design principles into product design and information architecture design.
+
+Most of my early work in this role was focused on similar products within the Multifunction Printing Device umbrella. More recently my role has expanded beyond my original group of products and into new features and products across the corporation. This heavily involves interdepartmental coordination, user experience research, high-fidelity prototyping and iterative design through rapid prototype-driven user-testing.
 
 ### Apple
 - UX User Interface Developer
