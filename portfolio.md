@@ -27,7 +27,7 @@ If you've watched the UI video above, you can imagine why they needed a designer
 
 [Complete review from BuyersLab](https://www.buyerslab.com/News/Industry-News/2016/November/New-Xerox-Color-Printer-and-MFP-for-Small-Offices), the standard for high-quality testing of document and digital imaging products.
 
-## Interaction Design Course Overview/Documentation
+## Interaction Design Overview
 
 ### [Description of Interaction Design Program](/IndStudyNotes.html)
 
