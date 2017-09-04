@@ -27,6 +27,8 @@ If you've watched the UI video above, you can imagine why they needed a designer
 
 [Complete review from BuyersLab](https://www.buyerslab.com/News/Industry-News/2016/November/New-Xerox-Color-Printer-and-MFP-for-Small-Offices), the standard for high-quality testing of document and digital imaging products.
 
+## Interaction Design Course Overview/Documentation
+
 ### [Description of Interaction Design Program](/IndStudyNotes.html)
 
 This is a description of areas of study involved in a course designed for my IT concentration Interactive Design at Rochester Institute of Technology.
@@ -44,8 +46,6 @@ The specifics of the exact project used as a proof-of-concept are in another doc
 As an exercise for myself, I designed a UI and mapped out a few behaviors for a fictional piece of software. The goal was to use a pre-existing brand, and show how their design team might approach an online resume-importing tool within their established style. It needs to be something that can preserve the design of the resume, yet still import all the relevant information into text for the employer’s system.
 
 The existing brand style I used for the exercise is trello.com. If you’re familiar with Trello, you can definitely notice this has their style all over it.
-
-## [Game Design](games)
 
 ## RIT Underground Mapping Project
 
@@ -68,3 +68,5 @@ This is the online poll given out to RIT students to gauge need and interest in 
 
 #### [Features and content of new Mapping Application](/MapAppDocs)
 Once we had fully committed to addressing the mapping issue, we discussed further features that could be added to the application. Feature creep was becoming a major concern, but much of this document is a direct result of my one-on-one discussion with our very excited professor that had all sorts of new technology he thought would fit perfectly in our project. As a result, our simple mapping application now has augmented reality and social features, as well as customized suggestions based on their class schedule and lots of GPS features similar to Waze.
+
+### [Game Design](games)

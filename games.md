@@ -2,7 +2,7 @@
 layout: nonHome
 ---
 
-## Game-Related Design
+## Game Design
 
 ### Card Game Design
 
