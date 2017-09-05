@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
->[Download PDF Resume](https://www.dropbox.com/s/0cou0fmpywi4ds9/dasut.pdf?dl=1)
+>[Download PDF Resume](davidSutton.pdf)
 
 As a proud product of the technical design ecosystems at Rochester Institute of Technology, Apple, and Xerox, I’ve always worked to build great collaborative design communities and produce great products. Through [Upstate UX,](http://upstateUX.com) we are creating a space for designers to learn from each other and collaborate in the Rochester area.
 
