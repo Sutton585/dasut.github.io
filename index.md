@@ -15,11 +15,18 @@ As a proud product of the technical design ecosystems at Rochester Institute of 
 
 **Programming and Scripting:** [Javascript](https://www.javascript.com/), [JQuery](https://jquery.com/), [Git](https://git-scm.com/), [LaTeX](https://www.latex-project.org/), [Python](https://www.python.org/)
 
+## Current Employment
+### Mirrorshow Management
+- Interactive Design
+- 2017 - *PRESENT*
+
+I work to create unique memorable experiences that companies use to represent themselves and their product at large trade-shows around the world. Since this is a smaller company, this has given me the opportunity to "wear many hats" and find interesting ways to use human-centered design principles to create and articulate our design decisions and direction. In this role I get to design experiences with interesting bleeding-edge technology and even create one-of-a-kind technology solutions for the needs of the particular client.
+
 ## Recent Employment
 
 ### Xerox
 - UX/UI Interaction Design
-- 2015 - *PRESENT*
+- 2015 - 2017
 
 Hired via Comforce as UI Design specialist at Xerox in Webster, NY in the Experience Design Group. As a major part of our multidisciplinary UX team, I work in the design and development of user interfaces for touchscreen devices. Integrating iterative user-centered design principles into product design and information architecture design.
 
