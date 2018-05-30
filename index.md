@@ -175,7 +175,7 @@ Education focused on user interface design, user-centered iterative design pract
 - Interaction Design, User Experience
 - Web Design and Development
 
-#### Crashtest Games
+### Crashtest Games
 Founded Crashtest Games, a very active design community at Rochester Institute of Technology. This is a resource to connect creators and users in a supportive and constructive social environment. The primary focus is encouraging proper iterative design processes via user-testing of games. Multiple weekly gatherings for different focuses of the group, as well as many yearly and bi-yearly events.
 
 -->
