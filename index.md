@@ -5,8 +5,9 @@ layout: default
 
 Passionate about collaborative product development groups, user-centered design, devlopment, innovation, and leadership. Currently looking for a great environment to make an impact as a Product Manager (P.O. or similar) by utilizing my unique background in human-centered UX design and software development. Few have such a strong foundation of experience in design and development, and I want to find a environment to better utilize those areas of expertise instead of just picking one lane or the other, design or development.
 
+<!-- 
 My passion project is Upstate UX, a group I have created for designers, developers, and students to learn, teach, and collaborate in the Rochester area. We do workshops, discussions, networking, confereces, Q&A and community outreach. My goal is to see this amazing scale beyond the limits of what I can accomplish out-of-pocket.
-
+-->
 ## Education
 
 ### Rochester Institute of Technology 
