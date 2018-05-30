@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<!--[Download PDF Resume](davidSutton.pdf)-->
+[Download PDF Resume](davidSutton.pdf)
 
 Passionate about collaborative product development groups, user-centered design, development, innovation, and leadership. Currently looking for a great environment to make an impact as a Product Manager (P.O. or similar) by utilizing my unique background in human-centered UX design and software development. I want to find an opportunity to better utilize those areas of expertise instead of just picking one lane or the other, design or development.
 
@@ -61,7 +61,7 @@ Trained in the Luma Institute’s program on practices for innovation in human-c
 Topics include: Leading a Culture of Innovation, Brainstorming, Problem Framing, Rapid Iteration and Product Testing, Prototyping, Ethnographic Research, User-testing and Interpretation.
 
 ### Udemy Product Managment Fundamentals
-In many of my roles, I have often served as almost a pseudo Product Owner with a strong emphasis on design and usablility. Now that I'm intentionally looking to find an appropriate Product Managment (or Product Owner) role to make the most of my broad skillset, I started these Udemy courses in order to gain certifications related to Product Managment.
+In many of my roles, I have often served as almost a pseudo Product Owner with a strong emphasis on design and usablility. Now that I'm intentionally looking to find an appropriate Product Management (or Product Owner) role to make the most of my broad skillset, I started these Udemy courses in order to gain certifications related to Product Management.
 
 <!-- 
 
