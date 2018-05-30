@@ -54,11 +54,11 @@ More recently, as I take on contract/consultation work, it's been really valuabl
 ### Upstate User Experience Group
 I founded UpstateUX.com for designers, developers, and students to learn, teach, and collaborate in the Rochester area. We do workshops, conferences, networking events, Q & A discussions, professional development training and general community outreach. My goal is to see this group of amazing design professionals scale beyond the limits of what I can accomplish out-of-pocket.
 
-#### Crashtest Games
+### Crashtest Games
 Founded Crashtest Games, a very active design community at Rochester Institute of Technology. This is a resource to connect creators and users in a supportive and constructive social environment. The primary focus is encouraging proper iterative design processes via user-testing of products/games. Multiple weekly gatherings for different focuses of the group, as well as many yearly and bi-yearly events.
 
 ### Luma Institute’s “Innovation through Human-Centered Design“
-Trained in the Luma Institute’s program on practices for innovation in human-centered design. Progressed all the way through the advanced HCD courses, qualifying as an instructor and facilitator of the Luma’s courses and putting their techniques into practice in cross-departmental teams. 
+Trained in the Luma Institute’s program on practices for innovation in human-centered design. Progressed all the way through the advanced HCD courses, gaining certification as an instructor and facilitator of the Luma’s courses and putting their techniques into practice in cross-departmental teams. 
 
 Topics include: Leading a Culture of Innovation, Brainstorming, Problem Framing, Rapid Iteration and Product Testing, Prototyping, Ethnographic Research, User-testing and Interpretation.
 
