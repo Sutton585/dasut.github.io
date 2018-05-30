@@ -32,9 +32,9 @@ This role takes a leadership position in many important parts of the product dev
 - UX/UI Interaction Design
 - 2015 - 2017
 
-Hired through Comforce as UI Design specialist at Xerox in Webster, NY in the Experience Design Group. Responsible for design of our products in development, similar to a Product Owner thats primarily concerned with Usability and functionality. Organized my small team of product/UI designers and kept us on schedule.
+Hired through Comforce as UI Design specialist at Xerox in Webster, NY in the Experience Design Group. Responsible for design of our products in development, similar to a Product Owner thats primarily concerned with usability and functionality. Organized my small team of product/UI designers and kept us on schedule. 
 
-In this role I also was able to do lots of product testing and and used a rapid prototyping and testing process to ensure high quality design for all our products.
+In this role I also was able to do lots of product testing and and used a rapid prototyping and testing process to ensure high quality design for all our products. Worked with off-site development teams to ensure on-time release of many related products.
 
 ### Apple
 - UX User Interface Developer
@@ -45,26 +45,25 @@ Hired via Infosys Ltd. to be a UI/UX consultant at Apple Inc. in Cupertino, Cali
 ### Freelance/Independent Web Design and Development
 - 2010 - 2018
 
-Designed and deployed custom websites on a freelance basis for companies and individuals around the Rochester NY area. Social media and blog management, content aggregation and publishing.
+During my time as a student, I would regularly take on projects in web development and design. This experience is what set me apart from my peers as I had been gathering lots of development experience. This would evenetually result in Apple offering me a job before I had finished my Bachelor's Degree.
 
-During my time as a student, I would regularly take on projects in web development and design. This experience is what set me apart from my peers as I had been gathering lots of development experience. This would evenetually result in Apple offering me a job before I had finished my Bachelor's Degree. More recently, as a consultant, I have been able to freelance between contracts.
+More recently, as I take on contract/consultation work, it's been really valuable for me to freelance between contracts to keep building a steady stream of experience with varied technology.
 
 ## Other Experience
 
 ### Upstate User Experience Group
-Founded UpstateUX.com for user experience professionals in Upstate New York to meet up for events, conferences, social gatherings, networking and general professional development. Ever expanding, with multiple events planned and partners and sponsors.
+I founded UpstateUX.com for designers, developers, and students to learn, teach, and collaborate in the Rochester area. We do workshops, conferences, networking events, Q & A discussions, professional development training and general community outreach. My goal is to see this group of amazing design professionals scale beyond the limits of what I can accomplish out-of-pocket.
 
-### Udemy Product Managment Fundamentals
-In many of my roles, I have often served as almost a pseudo Product Owner with a strong emphasis on design and usablility. Now that I'm intentionally looking to find an appropriate Product Managment role to make the most of my broad skillset, I started these Udemy courses in order to gain certifications related to Product Managment.
+#### Crashtest Games
+Founded Crashtest Games, a very active design community at Rochester Institute of Technology. This is a resource to connect creators and users in a supportive and constructive social environment. The primary focus is encouraging proper iterative design processes via user-testing of products/games. Multiple weekly gatherings for different focuses of the group, as well as many yearly and bi-yearly events.
 
 ### Luma Institute’s “Innovation through Human-Centered Design“
 Trained in the Luma Institute’s program on practices for innovation in human-centered design. Progressed all the way through the advanced HCD courses, qualifying as an instructor and facilitator of the Luma’s courses and putting their techniques into practice in cross-departmental teams. 
 
 Topics include: Leading a Culture of Innovation, Brainstorming, Problem Framing, Rapid Iteration and Product Testing, Prototyping, Ethnographic Research, User-testing and Interpretation.
 
-#### Crashtest Games
-Founded Crashtest Games, a very active design community at Rochester Institute of Technology. This is a resource to connect creators and users in a supportive and constructive social environment. The primary focus is encouraging proper iterative design processes via user-testing of products/games. Multiple weekly gatherings for different focuses of the group, as well as many yearly and bi-yearly events.
-
+### Udemy Product Managment Fundamentals
+In many of my roles, I have often served as almost a pseudo Product Owner with a strong emphasis on design and usablility. Now that I'm intentionally looking to find an appropriate Product Managment (or Product Owner) role to make the most of my broad skillset, I started these Udemy courses in order to gain certifications related to Product Managment.
 <!-- 
 
 ## Technical Proficiencies
