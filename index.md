@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[Download PDF Resume](davidSutton.pdf)
+[Download PDF Resume](DavidSutton.pdf)
 
 Passionate about collaborative product development groups, user-centered design, development, innovation, and leadership. Currently looking for a great environment to make an impact as a Product Manager (P.O. or similar) by utilizing my unique background in human-centered UX design and software development. I want to find an opportunity to better utilize those areas of expertise instead of just picking one lane or the other, design or development.
 
