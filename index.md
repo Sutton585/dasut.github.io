@@ -64,6 +64,7 @@ Topics include: Leading a Culture of Innovation, Brainstorming, Problem Framing,
 
 ### Udemy Product Managment Fundamentals
 In many of my roles, I have often served as almost a pseudo Product Owner with a strong emphasis on design and usablility. Now that I'm intentionally looking to find an appropriate Product Managment (or Product Owner) role to make the most of my broad skillset, I started these Udemy courses in order to gain certifications related to Product Managment.
+
 <!-- 
 
 ## Technical Proficiencies
