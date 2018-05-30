@@ -52,7 +52,7 @@ During my time as a student, I would regularly take on projects in web developme
 ## Other Experience
 
 ### Upstate User Experience Group
-Created UpstateUX.com for user experience professionals in Upstate New York to meet up for events, conferences, social gatherings, networking and general professional development. Ever expanding, with multiple events planned and partners and sponsors.
+Founded UpstateUX.com for user experience professionals in Upstate New York to meet up for events, conferences, social gatherings, networking and general professional development. Ever expanding, with multiple events planned and partners and sponsors.
 
 ### Udemy Product Managment Fundamentals
 In many of my roles, I have often served as almost a pseudo Product Owner with a strong emphasis on design and usablility. Now that I'm intentionally looking to find an appropriate Product Managment role to make the most of my broad skillset, I started these Udemy courses in order to gain certifications related to Product Managment.
