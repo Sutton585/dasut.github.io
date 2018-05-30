@@ -3,7 +3,7 @@ layout: default
 ---
 <!--[Download PDF Resume](davidSutton.pdf)-->
 
-Passionate about collaborative product development groups, user-centered design, devlopment, innovation, and leadership. Currently looking for a great environment to make an impact as a Product Manager (P.O. or similar) by utilizing my unique background in human-centered UX design and software development. I want to find an opportunity to better utilize those areas of expertise instead of just picking one lane or the other, design or development.
+Passionate about collaborative product development groups, user-centered design, development, innovation, and leadership. Currently looking for a great environment to make an impact as a Product Manager (P.O. or similar) by utilizing my unique background in human-centered UX design and software development. I want to find an opportunity to better utilize those areas of expertise instead of just picking one lane or the other, design or development.
 
 <!-- 
 My passion project is Upstate UX, a group I have created for designers, developers, and students to learn, teach, and collaborate in the Rochester area. We do workshops, discussions, networking, confereces, Q&A and community outreach. My goal is to see this amazing scale beyond the limits of what I can accomplish out-of-pocket.
@@ -45,9 +45,7 @@ Hired via Infosys Ltd. to be a UI/UX consultant at Apple Inc. in Cupertino, Cali
 ### Freelance/Independent Web Design and Development
 - 2010 - 2018
 
-During my time as a student, I would regularly take on projects in web development and design. This experience is what set me apart from my peers as I had been gathering lots of development experience. This would evenetually result in Apple offering me a job before I had finished my Bachelor's Degree.
-
-More recently, as I take on contract/consultation work, it's been really valuable for me to freelance between contracts to keep building a steady stream of experience with varied technology.
+During college and between contract jobs, it’s been really valuable for me to freelance to keep building a steady stream of experience with varied technology.
 
 ## Other Experience
 
