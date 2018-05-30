@@ -26,7 +26,7 @@ Education focused on user interface design, user-centered iterative design pract
 
 I work to create unique memorable experiences that companies use to represent themselves and their product at trade shows around the world. Since this is a smaller company, I've had the opportunity to “wear many hats” and find interesting ways to use my human-centered design principles to create and articulate our design direction. In this role I design experiences with interesting bleeding-edge technology and even create one-of-a-kind technology solutions for the needs of the our clients.
 
-This role takes a leadership position in many important parts of the product development life-cycle: brainstorm/ideation, presenting our design to stakeholders, clarifying our direction and scope, documentation, recruitment and management of development teams working in an agile environment, ensuring on-schedule delivery by hitting targets, providing transparency for all stakeholders with regular release and testing, re-iteration and eventually deployment of our finished product, and gathering metrics along the way that can help us on our next effort.
+This role takes a leadership position in many important parts of the product development life-cycle: brainstorming/ideation, presenting design to stakeholders, clarifying direction and scope, documentation, recruitment and management of development teams working in an agile environment, ensuring on-schedule delivery by hitting target dates, providing transparency for all stakeholders with regular releases, updates and testing, re-iteration and deployment of product, and gathering metrics along the way that can help us on our next release.
 
 ### Xerox
 - UX/UI Interaction Design
