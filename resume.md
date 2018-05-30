@@ -6,36 +6,35 @@ layout: default
 - (267) 888 6613
 - Rochester, NY
 
-Passionate about building great collaborative product design communities. My long-term goal is find a great space to make an impact as a Product Manager (or PO) by utilizing my background in human-centered design and software development. 
-My passion project is Upstate UX, where I have built a space for designers, developers, and students to learn, teach, and collaborate in the Rochester area.
+Passionate about collaborative product development groups, user-centered design, devlopment, innovation, and leadership. Currently looking for a great environment to make an impact as a Product Manager (P.O. or similar) by utilizing my unique background in human-centered UX design and software development. Few have such a strong foundation of experience in design and development, and I want to find a environment to better utilize those areas of expertise instead of just picking one lane or the other, design or development.
+
+My passion project is Upstate UX, a group I have created for designers, developers, and students to learn, teach, and collaborate in the Rochester area. We do workshops, discussions, networking, confereces, Q&A and community outreach. My goal is to see this amazing scale beyond the limits of what I can accomplish out-of-pocket.
 
 ## Education
 
 ### Rochester Institute of Technology 
 Human-Centered Computing (Information Technology) 2014
-
-Education focused on user interface design, user-centered iterative design practices, web development.
-
-#### Concentrations:
-
+Concentrations:
 - Interaction Design, User Experience
 - Web Design and Development
 
-## History
+Education focused on user interface design, user-centered iterative design practices, web development.
 
-### Mirror Show Management, Interactive Design
+## Employment History
+
+### Mirror Show Management
 - Interaction Design
 - 2017 - *present*
 
-In this role, I am responsible for designing and producing high-impact digital products, creating unique memorable experiences that companies use to represent themselves and their product internationally.
+I work to create unique memorable experiences that companies use to represent themselves and their product at trade shows around the world. Since this is a smaller company, I've had the opportunity to “wear many hats” and find interesting ways to use my human-centered design principles to create and articulate our design direction. In this role I design experiences with interesting bleeding-edge technology and even create one-of-a-kind technology solutions for the needs of the our clients.
 
-This role covers every aspect of the product development life-cycle; ideating, brainstorming, and pitching our ideas to clients, clarifying our direction and runway, documenting our design, determining scope, recruitment and management of development teams working in an agile environment, ensuring on-schedule delivery by hitting benchmarks, providing transparency for all stakeholders with regular release and testing, re-iteration and eventually deployment of our finished product, gathering metrics along the way that can help us on our next effort.
+This role takes a leadership position in many important parts of the product development life-cycle: brainstorm/ideation, presenting our design to stakeholders, clarifying our direction and scope, documentation, recruitment and management of development teams working in an agile environment, ensuring on-schedule delivery by hitting targets, providing transparency for all stakeholders with regular release and testing, re-iteration and eventually deployment of our finished product, and gathering metrics along the way that can help us on our next effort.
 
 ### Xerox
 - UX/UI Interaction Design
 - 2015 - 2017
 
-Hired through Comforce as UI Design specialist at Xerox in Webster, NY in the Experience Design Group. Responsible for design of our products in development, similar to a Product Owner thats primarily concerned with Usability and functionality. Organized my small team of designers and kept us on schedule.
+Hired through Comforce as UI Design specialist at Xerox in Webster, NY in the Experience Design Group. Responsible for design of our products in development, similar to a Product Owner thats primarily concerned with Usability and functionality. Organized my small team of product/UI designers and kept us on schedule.
 
 In this role I also was able to do lots of product testing and and used a rapid prototyping and testing process to ensure high quality design for all our products.
 
@@ -43,22 +42,14 @@ In this role I also was able to do lots of product testing and and used a rapid 
 - UX User Interface Developer
 - 2013 - 2014
 
-Hired via Infosys Ltd. to be a UI/UX consultant at Apple Inc. in Cupertino, California. I was responsible for the design and development of several new product UI, with a focus on rapid prototyping and testing. Primary focus in front-end development and technical product management.
-
-### Rochester Institude of Technology
-- Interaction Design Assistant Teacher
-- 2012 - 2014
-
-Assisted in instruction, evaluation, and tutoring of students in the Human-centered computing program at Rochester Institute of Technology.
-
-In this role I got my first taste of helping others learn how to get the most out of their work using human-centered design processes. Around the time this ended, I started building up Upstate UX, where I would be able to do the same, but on a larger scale.
+Hired via Infosys Ltd. to be a UI/UX consultant at Apple Inc. in Cupertino, California. I was responsible for the design and development of several new product UI, with a focus on rapid prototyping. Primary focus in front-end development and technical product management.
 
 ### Freelance/Independent Web Design and Development
-- 2010 - 2014
+- 2010 - 2018
 
 Designed and deployed custom websites on a freelance basis for companies and individuals around the Rochester NY area. Social media and blog management, content aggregation and publishing.
 
-During my time as a student, I would regularly take on projects in web development and design. This experience is what set me apart from my peers as I had been gathering lots of development experience. This would evenetually result in Apple offering me a job before I had finished my Bachelor's Degree.
+During my time as a student, I would regularly take on projects in web development and design. This experience is what set me apart from my peers as I had been gathering lots of development experience. This would evenetually result in Apple offering me a job before I had finished my Bachelor's Degree. More recently, as a consultant, I have been able to freelance between contracts.
 
 ## Other Experience
 
@@ -76,7 +67,9 @@ Topics include: Leading a Culture of Innovation, Brainstorming, Problem Framing,
 #### Crashtest Games
 Founded Crashtest Games, a very active design community at Rochester Institute of Technology. This is a resource to connect creators and users in a supportive and constructive social environment. The primary focus is encouraging proper iterative design processes via user-testing of products/games. Multiple weekly gatherings for different focuses of the group, as well as many yearly and bi-yearly events.
 
-<!-- ## Technical Proficiencies
+<!-- 
+
+## Technical Proficiencies
 
 - General Design:
 	- PhotoShop
@@ -98,4 +91,14 @@ Founded Crashtest Games, a very active design community at Rochester Institute o
 	- JQuery
 	- Git
 	- LaTeX
-	- Python -->
+	- Python 
+
+### Rochester Institude of Technology
+- Interaction Design Assistant Teacher
+- 2012 - 2014
+
+Assisted in instruction, evaluation, and tutoring of students in the Human-centered computing program at Rochester Institute of Technology.
+
+In this role I got my first taste of helping others learn how to get the most out of their work using human-centered design processes. Around the time this ended, I started building up Upstate UX, where I would be able to do the same, but on a larger scale.
+
+-->
