@@ -27,6 +27,16 @@ If you've watched the UI video above, you can imagine why they needed a designer
 
 [Complete review from BuyersLab](https://www.buyerslab.com/News/Industry-News/2016/November/New-Xerox-Color-Printer-and-MFP-for-Small-Offices), the standard for high-quality testing of document and digital imaging products.
 
+## Mirrorshow Management
+
+After winning Exhibitor Magazine’s 2017 Sizzle Award for their interactive booth at the annual ExhibitorLive, the premier Conference for Trade Show and Corporate Event Marketing, Mirror Show Management wanted to up the ante in 2018 with a fully interactive multiplayer game-show-in-a-booth. My experience in Game Design, UX  and Product Design helped us great a truly unique gaming experience.
+
+<img src="https://workinman.com/wp-content/uploads/2018/02/event_MSM_exhibitorLive2-1024x703.jpg" />
+
+In addition to working on the overall design of the game and the interactive experience, I also managed the contracted development team all the way through the project to ensure the highest quality (and on-schedule) end product. The physical design consisted of three touch screen kiosks that registered players and their game pieces via RFID technology, allowing up to 3 parties to compete in a Monopoly-inspired board game with a marketing twist. The game board and scores were displayed on six foot by six foot LED/LCD displays in the center of the booth, allowing players and spectators to see the impact of everyone’s game play choices in real time.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Si2fIms97g" frameborder="0" allowfullscreen></iframe>
+
 ## Interaction Design Overview
 
 ### [Description of Interaction Design Program](/IndStudyNotes.html)
