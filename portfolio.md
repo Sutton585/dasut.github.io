@@ -31,7 +31,7 @@ If you've watched the UI video above, you can imagine why they needed a designer
 
 <img width="560" src="https://workinman.com/wp-content/uploads/2018/02/event_MSM_exhibitorLive2-1024x703.jpg" />
 
-After winning Exhibitor Magazine’s 2017 Sizzle Award for their interactive booth at the annual ExhibitorLive, the premier Conference for Trade Show and Corporate Event Marketing, Mirror Show Management wanted to up the ante in 2018 with a fully interactive multiplayer game-show-in-a-booth. My experience in Game Design, UX  and Product Design helped us great a truly unique gaming experience.
+After winning Exhibitor Magazine’s 2017 Sizzle Award for our interactive booth at the annual ExhibitorLive, the premier Conference for Trade Show and Corporate Event Marketing, my group (Mirror Show Management) wanted to up the ante in 2018 with a fully interactive multiplayer game-show-in-a-booth. My experience in Game Design, UX  and Product Design helped us great a truly unique gaming experience.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6Si2fIms97g" frameborder="0" allowfullscreen></iframe>
 
