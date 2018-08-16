@@ -8,7 +8,7 @@ layout: nonHome
 
 ## Recent Web Development Work 
 
-- [microbiologynetwork.com](microbiologynetwork.com)
+- [microbiologynetwork.com](http://microbiologynetwork.com)
   - Designed then handed off for development with the company's proprietary CMS. (I do not recommend, many issues with the responsive design)
   - This is an older site, and a ground-up redesign is planned on all new platform. I'm pilotting the new stack with cqc.network, then migrating this content over if the results are good.
 - [cqc.network](https://cqc.network) 
