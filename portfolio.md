@@ -11,17 +11,21 @@ layout: nonHome
 ### [microbiologynetwork.com](http://microbiologynetwork.com)
   - Designed then handed off for development with the company's proprietary CMS. (I do not recommend, many issues with the responsive design)
   - This is an older site, and a ground-up redesign is planned on all new platform. I'm pilotting the new stack with cqc.network, then migrating this content over if the results are good.
+  
 ### [cqc.network](https://cqc.network) 
   - Made for a local company in Rochester, very simple but expanding into an ecommerce and event management website currently.
   - Development: HTML5/CSS/javescript/jQuery
+  
 ### [DavidSutton.net](https://DavidSutton.net)
   - Out-of-date portfolio site
   - CMS used: Wordpress
   - Development: HTML5/CSS/javescript/jQuery/PHP/MySQL
+
 ### [dasut.net](https://dasut.net)
   - Second Iteration of the portfolio, totally different tech used.
   - Frameworks used: [Hugo](https://gohugo.io/)
   - Hugo is a goLang-based framework turning markdown to static HTML/CSS content, lots of work managing a server with goLang environment and cron jobs to parse markdown content via git, then through Hugo, which is why I use Jekyll now. But it was really interesting to set up and run, and most of the work was just in teaching it how to interpret things in CSS.
+
 ### [dasut.github.io](dasut.github.io)
   - Current Portfolio Site 
   - Frameworks used: Jekyll
