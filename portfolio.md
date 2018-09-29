@@ -12,19 +12,12 @@ For more detail on some of my web projects, visit [this page](webDevelopment), o
 
 - [microbiologynetwork.com](http://microbiologynetwork.com)
 - [cqc.network](https://cqc.network) 
-- **Various iterations of this website:**
-  - [DavidSutton.net](https://DavidSutton.net)
-  - [dasut.net](https://dasut.net)
-  - [dasut.github.io](dasut.github.io) (Current)
+- Various iterations of this website:
  
-I'm currently working to migrate a very large and very active group from an old email-based communication platform (ListServ) onto a whole new platform. This has been a very interesting ongoing project, and I'm learning a lot about different tech solutions for to fit the user and business needs.
- 
-## [Game Design Work](games)
-For details on more game-oriented work I've done, including graphic design, go to [this page.](games)
-
+## Game Design Work
+I've worked on some pretty interesting game designs. For details on more game-oriented work I've done, including graphic design, and a room-sized interactive RFID-enabled boardgame with walls covered in continuous gigantic flatscreen displays, go to [this page.](games)
 
 ## Xerox UI/UX and Product Design Work
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Z9Kk2Rfu_A" frameborder="0" allowfullscreen></iframe>
 
