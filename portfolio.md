@@ -13,9 +13,11 @@ For more detail on some of my web projects, visit [this page](webDevelopment), o
 - [microbiologynetwork.com](http://microbiologynetwork.com)
 - [cqc.network](https://cqc.network) 
 - **Various iterations of this website:**
- - [DavidSutton.net](https://DavidSutton.net)
- - [dasut.net](https://dasut.net)
- - [dasut.github.io](dasut.github.io) (Current)
+  - [DavidSutton.net](https://DavidSutton.net)
+  - [dasut.net](https://dasut.net)
+  - [dasut.github.io](dasut.github.io) (Current)
+ 
+I'm currently working to migrate a very large and very active group from an old email-based communication platform (ListServ) onto a whole new platform. This has been a very interesting ongoing project, and I'm learning a lot about different tech solutions for to fit the user and business needs.
  
 ## [Game Design Work](games)
 For details on more game-oriented work I've done, including graphic design, go to [this page.](games)
