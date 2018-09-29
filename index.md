@@ -24,6 +24,8 @@ Founded and operated student organization based on practice and education in the
 ### Freelance/Independent Web Design and Development
 - 2010 - Current
 
+#### Web Design/Development Work
+
 During college and between larger contract jobs, it’s been really valuable for me to freelance to keep building a steady stream of experience with varied technology in web design and development. By working with lots of very different clients, I encounter a lot of really interesting design challenges that I would never encounter in larger organizations.
 
 *Some recent web work:* [cqc.network](https://cqc.network)
