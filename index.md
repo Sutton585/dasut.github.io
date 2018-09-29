@@ -3,11 +3,10 @@ layout: default
 ---
 [Download PDF Resume](DavidSutton.pdf)
 
-Passionate about collaborative product development groups, user-centered design, development, innovation, and leadership. Currently looking for a great environment to make an impact as a Product Manager (P.O., Design Lead or similar) by utilizing my unique background in human-centered UX design and software development. I want to find an opportunity to better utilize those areas of expertise instead of just picking one lane or the other, design or development.
+Passionate about collaborative product development groups, user-centered design, development, innovation, and ethical design. Currently looking for a longer-term environment to make an impact by utilizing my unique background in human-centered UX design and software development. I want to find an opportunity to hone my skills further, while making intuitively-designed products to serve both user needs and business needs.
 
-<!-- 
-My passion project is Upstate UX, a group I have created for designers, developers, and students to learn, teach, and collaborate in the Rochester area. We do workshops, discussions, networking, confereces, Q&A and community outreach. My goal is to see this amazing scale beyond the limits of what I can accomplish out-of-pocket.
--->
+Founder and Lead of Upstate UX, an organization for User Experience Professionals in Rochester to get together, share knowledge, attend conferences, do workshops and Q& A sessions, and mentor junior designers through our collaboration with local design schools. Through this organization, I've been able to lead many events including our recent symposium about Diversity and Inclusion in Design, and I recently presented as a guest speaker at RIT's National Technical Institute for the Deaf, teaching students about core concepts of Ux/UI Design.
+
 ## Education
 
 ### Rochester Institute of Technology 
@@ -18,13 +17,27 @@ Concentrations:
 
 Education focused on user interface design, user-centered iterative design practices, web development.
 
-## Employment History
+Founded and operated student organization based on practice and education in the areas of iterative prototype-driven testing and development processes in the field of game design. Upon graduation, this organization was handed off to RIT faculty and is now run as an important part of their game design school.
+
+## Recent Employment History
+
+### Freelance/Independent Web Design and Development
+- 2010 - Current
+
+During college and between larger contract jobs, it’s been really valuable for me to freelance to keep building a steady stream of experience with varied technology in web design and development. By working with lots of very different clients, I encounter a lot of really interesting design challenges that I would never encounter in larger organizations.
+
+*Some recent web work:* [cqc.network](https://cqc.network)
+
+#### Educational Work
+I've been leading symposiums, workshop events, and panel discussions through Upstate UX, and recently was a guest speaker at RIT's National Technical Institute for the Deaf, teaching students about core concepts of Ux/UI Design.
+
+I was a teacher's assistant at both RIT and Monroe Community College, instructing students in design and programming their courses. At MCC, I taught a course of my own design for computer literacy for foreign students.
 
 ### Mirror Show Management
 - Interaction Design
-- 2017 - *present*
+- 2017 - 2018
 
-I work to create unique memorable experiences that companies use to represent themselves and their product at trade shows around the world. Since this is a smaller company, I've had the opportunity to “wear many hats” and find interesting ways to use my human-centered design principles to create and articulate our design direction. In this role I design experiences with interesting bleeding-edge technology and even create one-of-a-kind technology solutions for the needs of the our clients.
+At Mirror Show, I work to create unique memorable experiences that companies use to represent themselves and their product at trade shows around the world. Since this is a smaller company, I've had the opportunity to “wear many hats” and find interesting ways to use my human-centered design principles to create and articulate our design direction. In this role I design experiences with interesting bleeding-edge technology and even create one-of-a-kind technology solutions for the needs of the our clients.
 
 This role takes a leadership position in many important parts of the product development life-cycle: brainstorming/ideation, presenting design to stakeholders, clarifying direction and scope, documentation, recruitment and management of development teams working in an agile environment, ensuring on-schedule delivery by hitting target dates, providing transparency for all stakeholders with regular releases, updates and testing, re-iteration and deployment of product, and gathering metrics along the way that can help us on our next release.
 
@@ -32,20 +45,14 @@ This role takes a leadership position in many important parts of the product dev
 - UX/UI Interaction Design
 - 2015 - 2017
 
-Hired through Comforce as UI Design specialist at Xerox in Webster, NY in the Experience Design Group. Responsible for design of our products in development, similar to a Product Owner thats primarily concerned with usability and functionality. Organized my small team of product/UI designers and kept us on schedule. 
-
-In this role I also was able to do lots of product testing and and used a rapid prototyping and testing process to ensure high quality design for all our products. Worked with off-site development teams to ensure on-time release of many related products.
+Hired via Comforce as UI Design specialist at Xerox in Webster, NY in the Experience Design Group. I worked to shape the user experience across the product's web and mobile interfaces as well as the product's onboard touchscreen UI. While there I was certified in Luma’s “Innovation Through Human-Centered Design” program to lead many valuable processes (such as persona development, user research, and ideation and brainstorming processes for stakeholders) to translate strategy, business requirements and usability best practices into best-in-class digital experiences.
+I was responsible for all design and functional documentation of my products including style guides and layout guides, user experience standards, and keeping everything current and consistent across platforms in a rapidly-changing development environment.
 
 ### Apple
 - UX User Interface Developer
 - 2013 - 2014
 
-Hired via Infosys Ltd. to be a UI/UX consultant at Apple Inc. in Cupertino, California. I was responsible for the design and development of several new product UI, with a focus on rapid prototyping. Primary focus in front-end development and technical product management.
-
-### Freelance/Independent Web Design and Development
-- 2010 - 2018
-
-During college and between contract jobs, it’s been really valuable for me to freelance to keep building a steady stream of experience with varied technology.
+Hired via Infosys Ltd. to be a UI/UX consultant at Apple Inc. in Cupertino, California. I was responsible for the design and development of several new product UI, with a focus on rapid prototyping and web applications development. Primary focus in front-end development and design, as well as technical product management.
 
 ## Other Experience
 
@@ -59,9 +66,6 @@ Founded Crashtest Games, a very active design community at Rochester Institute o
 Trained in the Luma Institute’s program on practices for innovation in human-centered design. Progressed all the way through the advanced HCD courses, gaining certification as an instructor and facilitator of the Luma’s courses and putting their techniques into practice in cross-departmental teams. 
 
 Topics include: Leading a Culture of Innovation, Brainstorming, Problem Framing, Rapid Iteration and Product Testing, Prototyping, Ethnographic Research, User-testing and Interpretation.
-
-### Udemy Product Managment Fundamentals
-In many of my roles, I have often served as almost a pseudo Product Owner with a strong emphasis on design and usablility. Now that I'm intentionally looking to find an appropriate Product Management (or Product Owner) role to make the most of my broad skillset, I started these Udemy courses in order to gain certifications related to Product Management.
 
 <!-- 
 
