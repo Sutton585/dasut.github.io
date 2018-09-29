@@ -5,7 +5,7 @@ layout: default
 
 Passionate about collaborative product development groups, user-centered design, development, innovation, and ethical design. Currently looking for a longer-term environment to make an impact by utilizing my unique background in human-centered UX design and software development. I want to find an opportunity to hone my skills further, while making intuitively-designed products to serve both user needs and business needs.
 
-Founder and Lead of Upstate UX, an organization for User Experience Professionals in Rochester to get together, share knowledge, attend conferences, do workshops and Q& A sessions, and mentor junior designers through our collaboration with local design schools. Through this organization, I've been able to lead many events including our recent symposium about Diversity and Inclusion in Design, and I recently presented as a guest speaker at RIT's National Technical Institute for the Deaf, teaching students about core concepts of Ux/UI Design.
+Founder and Lead of Upstate UX, an organization for User Experience Professionals in Rochester to get together, share knowledge, attend conferences, do workshops and Q& A sessions, and mentor junior designers through our collaboration with local design schools. Through this organization, I've been able to lead many events including our recent symposium about Diversity and Inclusion in Design, and I recently presented as a guest speaker at RIT's National Technical Institute for the Deaf, teaching students about core concepts of UX/UI Design.
 
 ## Education
 
@@ -30,7 +30,7 @@ During college and between larger contract jobs, it’s been really valuable for
 
 **Some recent web work:** [cqc.network](http://cqc.network)
 
-I've been leading symposiums, workshop events, and panel discussions through Upstate UX, and recently was a guest speaker at RIT's National Technical Institute for the Deaf, teaching students about core concepts of Ux/UI Design.
+I've been leading symposiums, workshop events, and panel discussions through Upstate UX, and recently was a guest speaker at RIT's National Technical Institute for the Deaf, teaching students about core concepts of UX/UI Design.
 
 ### Mirror Show Management
 - Interaction Design
