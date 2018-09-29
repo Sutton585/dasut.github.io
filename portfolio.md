@@ -2,20 +2,24 @@
 layout: nonHome
 ---
 
->**Disclaimer:** This is not an exhaustive list of all my work, it’s a taste of what I do on my own time to give you a feel for who I am. To comply with non-disclosure agreements, __I do not make available all of the work I have done (epecially Xerox and Apple) unless express permission is given.__
+>**Disclaimer:** Please understand that this is not an exhaustive list of all my work, it’s a taste of what I do to give you a feel for who I am. In order to comply with non-disclosure agreements, __I do not make available much of the visuals I have done (epecially Xerox and Apple) unless express permission is given.__
 
 *This page is a work-in-progress. An older version of all of this can be seen at [DavidSutton.net](http://DavidSutton.net)*
 
 ## Web Development Work 
 
-For more detail on some of my web projects, visit this [page](webDevelopment), or contact me; I'm always happy to talk design.
+For more detail on some of my web projects, visit [this page](webDevelopment), or contact me; I'm always happy to talk design.
 
 - [microbiologynetwork.com](http://microbiologynetwork.com)
-- cqc.network](https://cqc.network) 
-- various iterations of this website:
+- [cqc.network](https://cqc.network) 
+- **Various iterations of this website:**
  - [DavidSutton.net](https://DavidSutton.net)
  - [dasut.net](https://dasut.net)
  - [dasut.github.io](dasut.github.io) (Current)
+ 
+## [Game Design Work](games)
+For details on more game-oriented work I've done, including graphic design, go to [this page.](games)
+
 
 ## Xerox UI/UX and Product Design Work
 
@@ -89,3 +93,4 @@ This is the online poll given out to RIT students to gauge need and interest in 
 Once we had fully committed to addressing the mapping issue, we discussed further features that could be added to the application. Feature creep was becoming a major concern, but much of this document is a direct result of my one-on-one discussion with our very excited professor that had all sorts of new technology he thought would fit perfectly in our project. As a result, our simple mapping application now has augmented reality and social features, as well as customized suggestions based on their class schedule and lots of GPS features similar to Waze.
 
 ## [Game Design Work](games)
+For details on more game-oriented work I've done, including graphic design, go to [this page.](games)
