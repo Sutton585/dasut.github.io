@@ -15,7 +15,9 @@ For more detail on some of my web projects, visit [this page](webDevelopment), o
 - Various iterations of this website:
  
 ## Game Design Work
-I've worked on some pretty interesting game designs. For details on more game-oriented work I've done, including graphic design, and a room-sized interactive RFID-enabled boardgame with walls covered in continuous gigantic flatscreen displays, go to [this page.](games)
+For details on more game-oriented work I've done, go to [this page.](games)
+
+Some work you'll see there includes graphic/visual design, and a room-sized interactive RFID-enabled boardgame in a room with walls covered in continuous gigantic flatscreen displays. Definitely my most ambitious game design to actually be built.
 
 ## Xerox UI/UX and Product Design Work
 
@@ -29,7 +31,7 @@ I've worked on some pretty interesting game designs. For details on more game-or
 
 I was brought on as the UI Design specialist at Xerox in Webster, NY in the Experience Design Group for the new generation of mobile-like interfaces. I work mostly in the design and development of UI for touchscreen devices. Integrating iterative user-centered design principles into product design and information architecture design.
 
-If you've watched the UI video above, you can imagine why they needed a designer that has experience with mobile UX.
+If you've watched the UI video above, you can imagine why they needed a designer that has experience with mobile UX. We utilized the existing design language of mobile devices to create a touch-screen interface that has been recieving a lot of positive attention in the industry because of it's clean modern look and usibality.
 
 #### Market Reception of Products
 
@@ -86,6 +88,3 @@ This is the online poll given out to RIT students to gauge need and interest in 
 
 #### [Features and content of new Mapping Application](/MapAppDocs)
 Once we had fully committed to addressing the mapping issue, we discussed further features that could be added to the application. Feature creep was becoming a major concern, but much of this document is a direct result of my one-on-one discussion with our very excited professor that had all sorts of new technology he thought would fit perfectly in our project. As a result, our simple mapping application now has augmented reality and social features, as well as customized suggestions based on their class schedule and lots of GPS features similar to Waze.
-
-## [Game Design Work](games)
-For details on more game-oriented work I've done, including graphic design, go to [this page.](games)
