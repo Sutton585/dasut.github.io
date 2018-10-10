@@ -31,7 +31,7 @@ This is a card game I made a few years ago. It started out very simple, but I en
 
 Right now, the images [in this link](](http://www.davidsutton.net/portfolio/dodgeball-title/)) are roughs of the cards from the latest iteration that went to print. As a result, I left in the cut and bleed lines so that you can see more than what made it onto the card. I might clean the images up a bit as I revise this portfolio section. Leaving bleed lines in gives a good impression of how they're printed, but I think it might look sloppy for an online portfolio.
 
-### [Horror Western RPG Game Design](http://www.davidsutton.net/portfolio/horror-western/)
+### Horror Western RPG Game Design
 
 >To view the headshots for some of the circular character pieces, [please follow this link to the older version of my website](http://www.davidsutton.net/portfolio/horror-western/), the page you're viewing right now is a work-in-progress.
 
