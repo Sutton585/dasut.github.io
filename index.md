@@ -29,6 +29,7 @@ Founded and operated student organization based on practice and education in the
 During college and between larger contract jobs, it’s been really valuable for me to freelance to keep building a steady stream of experience with varied technology in web design and development. By working with lots of very different clients, I encounter a lot of really interesting design challenges that I would never encounter in larger organizations.
 
 **Recent web work:** [cqc.network](http://cqc.network)
+
 **More detail on [recent web projects](webDevelopment) (Including iterations of this site)** 
 
 Through my group Upstate UX, I've been leading symposiums, workshop events, and panel discussions; I was also recently was a guest speaker at RIT's National Technical Institute for the Deaf, teaching Hearing Inpared students UX/UI Design concepts for mobile design.
