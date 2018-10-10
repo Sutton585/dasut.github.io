@@ -3,9 +3,9 @@ layout: default
 ---
 [Download PDF Resume](DavidSutton.pdf)
 
-Passionate about collaborative product development groups, user-centered design, development, innovation, and ethical design. Currently looking for a longer-term environment to make an impact by utilizing my unique background in human-centered UX design and software development. I want to find an opportunity to hone my skills further, while making intuitively-designed products to serve both user needs and business needs.
+I'm passionate about collaborative product development groups, user-centered design, development, innovation, and ethical design. Currently looking for a long term environment to make an impact by utilizing my unique background in human-centered UX design and software development. I want to find an opportunity to hone my skills further, while making intuitively-designed products to serve both user needs and business needs.
 
-Founder and Lead of Upstate UX, an organization for User Experience Professionals in Rochester to get together, share knowledge, attend conferences, do workshops and Q& A sessions, and mentor junior designers through our collaboration with local design schools. Through this organization, I've been able to lead many events including our recent symposium about Diversity and Inclusion in Design, and I recently presented as a guest speaker at RIT's National Technical Institute for the Deaf, teaching students about core concepts of UX/UI Design.
+Founder and Organizer of Upstate UX, an organization for User Experience Professionals in Rochester to get together, share knowledge, attend conferences, do workshops and Q & A sessions, and mentor junior designers through our collaboration with local design schools. Through this organization, I've been able to lead many events including our recent symposium about Diversity and Inclusion in Design, and I recently presented as a guest speaker at RIT's National Technical Institute for the Deaf, teaching students the concepts of UX/UI Design.
 
 ## Education
 
