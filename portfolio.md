@@ -6,14 +6,6 @@ layout: nonHome
 
 *This page is a work-in-progress. An older version of all of this can be seen at [DavidSutton.net](http://DavidSutton.net)*
 
-## Web Development Work 
-
-For more detail on some of my web projects, visit [this page](webDevelopment), or contact me; I'm always happy to talk design.
-
-- [microbiologynetwork.com](http://microbiologynetwork.com)
-- [cqc.network](https://cqc.network) 
-- Various iterations of this website:
- 
 ## Game Design Work
 For details on more game-oriented work I've done, go to [this page.](games)
 
@@ -46,6 +38,14 @@ If you've watched the UI video above, you can imagine why they needed a designer
 After winning Exhibitor Magazine’s 2017 Sizzle Award for our interactive booth at the annual ExhibitorLive, the premier Conference for Trade Show and Corporate Event Marketing, my group (Mirror Show Management) wanted to up the ante in 2018 with a fully interactive multiplayer game-show-in-a-booth. My experience in Game Design, UX  and Product Design helped us great a truly unique gaming experience.
 
 In addition to working on the overall design of the game and the interactive experience, I also managed the contracted development team all the way through the project to ensure the highest quality (and on-schedule) end product. The physical design consisted of three touch screen kiosks that registered players and their game pieces via RFID technology, allowing up to 3 parties to compete in a Monopoly-inspired board game with a marketing twist. The game board and scores were displayed on six foot by six foot LED/LCD displays in the center of the booth, allowing players and spectators to see the impact of everyone’s game play choices in real time.
+
+## Web Development Work 
+
+For more detail on some of my web projects, visit [this page](webDevelopment), or contact me; I'm always happy to talk design.
+
+- [microbiologynetwork.com](http://microbiologynetwork.com)
+- [cqc.network](https://cqc.network) 
+ 
 
 ## Interaction Design Overview
 
