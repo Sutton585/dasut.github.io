@@ -9,10 +9,11 @@ I recently taught at RIT on the topic of Web Accessibility and Human-Centered De
 
 I take a lot of pride in my ability to efficiently coordinate across departments and problem-solve with my team to find efficient solutions to complex business and user needs. I’m passionate about what can be accomplished with rapid iterative development, agile methodology, and human-centered design and the impact it can have for not only our products, but also for our customers.
 
-/*I'm passionate about collaborative product development groups, user-centered design, development, innovation, and ethical design. Currently looking for a long term environment to make an impact by utilizing my unique background in human-centered UX design and software development. I want to find an opportunity to hone my skills further, while making intuitively-designed products to serve both user needs and business needs.
+<!-- 
+I'm passionate about collaborative product development groups, user-centered design, development, innovation, and ethical design. Currently looking for a long term environment to make an impact by utilizing my unique background in human-centered UX design and software development. I want to find an opportunity to hone my skills further, while making intuitively-designed products to serve both user needs and business needs.
 
 Founder and Organizer of Upstate UX, an organization for User Experience Professionals in Rochester to get together, share knowledge, attend conferences, do workshops and Q & A sessions, and mentor junior designers through our collaboration with local design schools. Through this organization, I've been able to lead many events including our recent symposium about Diversity and Inclusion in Design, and I recently presented as a guest speaker at RIT's National Technical Institute for the Deaf, teaching students the concepts of UX/UI Design.
-*/
+-->
 ## Education
 
 ### Rochester Institute of Technology 
