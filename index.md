@@ -32,14 +32,13 @@ Founded and operated student organization based on practice and education in the
 - 2010 - Current
 
 #### Freelance Web Design/Development and Educational Work
+Throughout my career, it’s been really valuable for me to freelance to keep building a steady stream of experience with varied technology in web design and development. By working with lots of very different clients, I encounter a lot of really interesting design challenges that I would never encounter in larger organizations.
 
-During college and between larger contract jobs, it’s been really valuable for me to freelance to keep building a steady stream of experience with varied technology in web design and development. By working with lots of very different clients, I encounter a lot of really interesting design challenges that I would never encounter in larger organizations.
+Much of my work involves being a Subject Matter Expert (SME) on digital accessibility and conducting usability assessments against industry standards like the Web Content Accessibility Guidelines (WCAG), and developing design documents like personas, storyboards, business plans, launch schedules, competitive assessments and product strategy work to lead cross-departmental collaboration efforts.
 
-**Recent web work:** [cqc.network](http://cqc.network)
+**More detail on [recent web projects](webDevelopment) (Including iterations of this site!)** 
 
-**More detail on [recent web projects](webDevelopment) (Including iterations of this site)** 
-
-Through my group Upstate UX, I've been leading symposiums, workshop events, and panel discussions; I was also recently was a guest speaker at RIT's National Technical Institute for the Deaf, teaching Hearing Inpared students UX/UI Design concepts for mobile design.
+Through my group Upstate UX, I've been leading symposiums, workshop events, and panel discussions; I was also recently was a guest speaker at RIT's National Technical Institute for the Deaf, teaching Hearing Inpared students UX/UI Design concepts for mobile design. In 2019, I will be leading courses for certification by IDEO for interested potential designers of any experience level.
 
 ### Mirror Show Management
 - Interaction Design
@@ -52,9 +51,13 @@ This role takes a leadership position in many important parts of the product dev
 ### Xerox
 - UX/UI Interaction Design
 - 2015 - 2017
-
+<--
 Hired via Comforce as UI Design specialist at Xerox in Webster, NY in the Experience Design Group. I worked to shape the user experience across the product's web and mobile interfaces as well as the product's onboard touchscreen UI. While there I was certified in Luma’s “Innovation Through Human-Centered Design” program to lead many valuable processes (such as persona development, user research, and ideation and brainstorming processes for stakeholders) to translate strategy, business requirements and usability best practices into best-in-class digital experiences.
 I was responsible for all design and functional documentation of my products including style guides and layout guides, user experience standards, and keeping everything current and consistent across platforms in a rapidly-changing development environment.
+-->
+Hired via Comforce as UI Design specialist at Xerox in Webster, NY in the Experience Design Group. I worked to shape the user experience across the product's web and mobile interfaces as well as the product's onboard touchscreen UI. While there I was certified in Luma’s “Innovation Through Human-Centered Design” program to lead many valuable processes (such as persona development, user research, and ideation and brainstorming processes for stakeholders) to translate strategy, business requirements and usability best practices into best-in-class digital experiences.
+
+I was involved in every stage from wireframes and storyboards, building and user-testing prototypes at various levels of fidelity, and eventually overseeing the implementation and development of the features in the product itself. I was also responsible for all design and functional documentation of my products including style guides and layout guides, user experience standards, and keeping everything current and consistent across platforms in a rapidly-changing large-scale development environment with shifting priorities and timelines.
 
 ### Apple
 - UX User Interface Developer
