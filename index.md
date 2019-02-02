@@ -28,17 +28,18 @@ Founded and operated student organization based on practice and education in the
 
 ## Recent Employment History
 
-### Freelance/Independent Web Design and Development
+### Freelance/Independent Web Design and Development and Educational/Training Work
 - 2010 - Current
 
-#### Freelance Web Design/Development and Educational Work
+#### Web Design/Dev and UX Consulting
 Throughout my career, it’s been really valuable for me to freelance to keep building a steady stream of experience with varied technology in web design and development. By working with lots of very different clients, I encounter a lot of really interesting design challenges that I would never encounter in larger organizations.
 
 Much of my work involves being a Subject Matter Expert (SME) on digital accessibility and conducting usability assessments against industry standards like the Web Content Accessibility Guidelines (WCAG), and developing design documents like personas, storyboards, business plans, launch schedules, competitive assessments and product strategy work to lead cross-departmental collaboration efforts.
 
 **More detail on [recent web projects](webDevelopment) (Including iterations of this site!)** 
 
-Through my group Upstate UX, I've been leading symposiums, workshop events, and panel discussions; I was also recently was a guest speaker at RIT's National Technical Institute for the Deaf, teaching Hearing Inpared students UX/UI Design concepts for mobile design. In 2019, I will be leading courses for certification by IDEO for interested potential designers of any experience level.
+#### Educational and Instructional Work
+Through my group Upstate UX, I've been leading symposiums, workshop events, and panel discussions; I was also recently was a guest speaker at RIT's National Technical Institute for the Deaf, teaching Hearing Inpared students UX/UI Design concepts for mobile design. Beginning in 2019, I will be leading courses for certification by IDEO for interested potential designers of any experience level.
 
 ### Mirror Show Management
 - Interaction Design
