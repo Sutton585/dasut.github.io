@@ -3,10 +3,16 @@ layout: default
 ---
 [Download PDF Resume](DavidSutton.pdf)
 
-I'm passionate about collaborative product development groups, user-centered design, development, innovation, and ethical design. Currently looking for a long term environment to make an impact by utilizing my unique background in human-centered UX design and software development. I want to find an opportunity to hone my skills further, while making intuitively-designed products to serve both user needs and business needs.
+I'm currently looking for an environment to make an impact in User Experience by utilizing my unique background in both Human-Centered Design Thinking and Software Development. I’m looking for a long term environment where I can continue to learn and grow. I’m currently freelancing and teaching part-time at RIT and MCC while organizing Upstate UX, a design organization I started for Rochester User Experience professionals. I'm very self-motivated, and love to work with growing organizations to establish a culture of human-centered product design.
+
+I recently taught at RIT on the topic of Web Accessibility and Human-Centered Design. In January, I began instruction and facilitation for IDEO certification courses for a group of around 100 students. My goal is to enable anyone in Rochester with any experience level with an interest to attend the free nine-week course at RIT to get their first industry certification from IDEO, a global design leader and trailblazer of human-centered design and accessibility.
+
+I take a lot of pride in my ability to efficiently coordinate across departments and problem-solve with my team to find efficient solutions to complex business and user needs. I’m passionate about what can be accomplished with rapid iterative development, agile methodology, and human-centered design and the impact it can have for not only our products, but also for our customers.
+
+/*I'm passionate about collaborative product development groups, user-centered design, development, innovation, and ethical design. Currently looking for a long term environment to make an impact by utilizing my unique background in human-centered UX design and software development. I want to find an opportunity to hone my skills further, while making intuitively-designed products to serve both user needs and business needs.
 
 Founder and Organizer of Upstate UX, an organization for User Experience Professionals in Rochester to get together, share knowledge, attend conferences, do workshops and Q & A sessions, and mentor junior designers through our collaboration with local design schools. Through this organization, I've been able to lead many events including our recent symposium about Diversity and Inclusion in Design, and I recently presented as a guest speaker at RIT's National Technical Institute for the Deaf, teaching students the concepts of UX/UI Design.
-
+*/
 ## Education
 
 ### Rochester Institute of Technology 
