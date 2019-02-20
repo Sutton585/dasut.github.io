@@ -52,10 +52,12 @@ This role takes a leadership position in many important parts of the product dev
 ### Xerox
 - UX/UI Interaction Design
 - 2015 - 2017
-<--
+
+<!--
 Hired via Comforce as UI Design specialist at Xerox in Webster, NY in the Experience Design Group. I worked to shape the user experience across the product's web and mobile interfaces as well as the product's onboard touchscreen UI. While there I was certified in Luma’s “Innovation Through Human-Centered Design” program to lead many valuable processes (such as persona development, user research, and ideation and brainstorming processes for stakeholders) to translate strategy, business requirements and usability best practices into best-in-class digital experiences.
 I was responsible for all design and functional documentation of my products including style guides and layout guides, user experience standards, and keeping everything current and consistent across platforms in a rapidly-changing development environment.
 -->
+
 Hired via Comforce as UI Design specialist at Xerox in Webster, NY in the Experience Design Group. I worked to shape the user experience across the product's web and mobile interfaces as well as the product's onboard touchscreen UI. While there I was certified in Luma’s “Innovation Through Human-Centered Design” program to lead many valuable processes (such as persona development, user research, and ideation and brainstorming processes for stakeholders) to translate strategy, business requirements and usability best practices into best-in-class digital experiences.
 
 I was involved in every stage from wireframes and storyboards, building and user-testing prototypes at various levels of fidelity, and eventually overseeing the implementation and development of the features in the product itself. I was also responsible for all design and functional documentation of my products including style guides and layout guides, user experience standards, and keeping everything current and consistent across platforms in a rapidly-changing large-scale development environment with shifting priorities and timelines.
