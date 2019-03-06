@@ -4,12 +4,8 @@ layout: nonHome
 
 >**Disclaimer:** Please understand that this is not an exhaustive list of all my work, it’s a taste of what I do to give you a feel for who I am. In order to comply with non-disclosure agreements, __I do not make available much of the visuals I have done (epecially Xerox and Apple) unless express permission is given.__
 
-*This page is a work-in-progress. An older version of all of this can be seen at [DavidSutton.net](http://DavidSutton.net)*
+*This page is a being completely overhauled and re-organized. Ain order to not be totally blank, I'll leave some material from my Xerox work.*
 
-## Game Design Work
-For details on more game-oriented work I've done, go to [this page.](games)
-
-Some work you'll see there includes graphic/visual design, and a room-sized interactive RFID-enabled boardgame in a room with walls covered in continuous gigantic flatscreen displays. Definitely my most ambitious game design to actually be built.
 
 ## Xerox UI/UX and Product Design Work
 
@@ -30,61 +26,3 @@ If you've watched the UI video above, you can imagine why they needed a designer
 [Xerox Summary of Reviews](http://connect.blogs.xerox.com/2017/02/28/the-reviews-are-in-and-theyre-winners/)
 
 [Complete review from BuyersLab](https://www.buyerslab.com/News/Industry-News/2016/November/New-Xerox-Color-Printer-and-MFP-for-Small-Offices), the standard for high-quality testing of document and digital imaging products.
-
-## Mirrorshow Management
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6Si2fIms97g" frameborder="0" allowfullscreen></iframe>
-
-After winning Exhibitor Magazine’s 2017 Sizzle Award for our interactive booth at the annual ExhibitorLive, the premier Conference for Trade Show and Corporate Event Marketing, my group (Mirror Show Management) wanted to up the ante in 2018 with a fully interactive multiplayer game-show-in-a-booth. My experience in Game Design, UX  and Product Design helped us great a truly unique gaming experience.
-
-In addition to working on the overall design of the game and the interactive experience, I also managed the contracted development team all the way through the project to ensure the highest quality (and on-schedule) end product. The physical design consisted of three touch screen kiosks that registered players and their game pieces via RFID technology, allowing up to 3 parties to compete in a Monopoly-inspired board game with a marketing twist. The game board and scores were displayed on six foot by six foot LED/LCD displays in the center of the booth, allowing players and spectators to see the impact of everyone’s game play choices in real time.
-
-## Web Development Work 
-
-For more detail on some of my web projects, visit [this page](webDevelopment), or contact me; I'm always happy to talk design.
-
-- [microbiologynetwork.com](http://microbiologynetwork.com)
-- [cqc.network](https://cqc.network) 
- 
-
-## Interaction Design Overview
-
-### [Description of Interaction Design Program](/IndStudyNotes.html)
-
-This is a description of areas of study involved in a course designed for my IT concentration Interactive Design at Rochester Institute of Technology.
-
-### [Iterative Design Documentation](IDgeneral)
-
-In a section of my Interactive Design HCI concentration, I wrote about how to streamline a process for user-centric iterative design that focused on quickly moving from user testing to design revisions. This is the first half of that report.
-My original hypothesis was that I would create a tiny easy to run project, and let future revisions be completely dictated by what could be learned from user-testing. This requires very fast prototyping and streamlined testing.
-The specifics of the exact project used as a proof-of-concept are in another document.
-
-## Trello Job App
-
->[Here's a link to the design on my older website](http://www.davidsutton.net/portfolio/trello-resume-importer/), the page you're viewing right now is a work-in-progress.
-
-As an exercise for myself, I designed a UI and mapped out a few behaviors for a fictional piece of software. The goal was to use a pre-existing brand, and show how their design team might approach an online resume-importing tool within their established style. It needs to be something that can preserve the design of the resume, yet still import all the relevant information into text for the employer’s system.
-
-The existing brand style I used for the exercise is trello.com. If you’re familiar with Trello, you can definitely notice this has their style all over it.
-
-## RIT Underground Mapping Project
-
-#### [Documentation from Researching on-campus needs](https://docs.google.com/document/d/18Bosf_Ilz7tFD7B4myXvuxNiSJYXsjUlr8NCyIDbcoY/edit)
-
->Pardon the Google doc, I'll work on migrating this document to the new format, until then I'll keep the Google doc public.
-
-In this document, I researched various reported issues by RIT students, including library resources being bottlenecked unnecessarily, and a lackluster mapping system for the campus.
-My group ended up deciding to move forward in laying out solutions to the map systems, but at the time this was written, we hadn't decided which issue would be the more productive option to pursue.
-
-#### [Outline for user-polling](pollingMethods)
-
-In this document, I explain out methodology for polling students for information that might help us create a solution to the current weaknesses in RIT's mapping system.
-
-#### [Usability survey for RIT map app](https://docs.google.com/forms/d/1plCUeQVDPoAPtTW9m6r_X8RClBjKlRSPq1SRBxuFCP0/edit)
-
->This link brings you to the actual google form that was used to poll students.
-
-This is the online poll given out to RIT students to gauge need and interest in a new application to help navigation across the large campus. We planned to use this feedback from students to create a solution for students.
-
-#### [Features and content of new Mapping Application](/MapAppDocs)
-Once we had fully committed to addressing the mapping issue, we discussed further features that could be added to the application. Feature creep was becoming a major concern, but much of this document is a direct result of my one-on-one discussion with our very excited professor that had all sorts of new technology he thought would fit perfectly in our project. As a result, our simple mapping application now has augmented reality and social features, as well as customized suggestions based on their class schedule and lots of GPS features similar to Waze.
