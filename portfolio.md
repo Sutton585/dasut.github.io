@@ -31,7 +31,7 @@ As an exercise, I designed a UI and mapped out a few behaviors for a fictional p
 The existing brand style I used for the exercise is trello.com. If you’re familiar with Trello, you can definitely notice this has their style all over it.
 
 **[EXTERNAL LINK](http://www.davidsutton.net/portfolio/trello-resume-importer/)**
-(This is temporarily hosted on another website, and will be fully brought over soon.)
+(This is temporarily hosted elsewhere.)
 
 ## RIT Underground Mapping Project
 
