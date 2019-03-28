@@ -24,7 +24,7 @@ As an exercise, I designed a UI and mapped out a few behaviors for a fictional p
 
 The existing brand style I used for the exercise is trello.com. If you’re familiar with Trello, you can definitely notice this has their style all over it.
 
-**[Link to Design Walkthrough](http://www.davidsutton.net/portfolio/trello-resume-importer/)**
+**[EXTERNAL LINK](http://www.davidsutton.net/portfolio/trello-resume-importer/)**
 (This is temporarily hosted on another website, and will be fully brought over soon.)
 
 ## RIT Underground Mapping Project
@@ -36,4 +36,4 @@ While at Rochester Institute of Technology, I took on a big project of creating 
 ## Game Design Work
 One of my biggest passions is designing systems for games. Check out this section to see some of my work, including a massive full-room electronic gaming experience made for an industry convention.
 
-**[READ MORE...](games)
+**[READ MORE...](games)**
