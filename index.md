@@ -3,13 +3,13 @@ layout: default
 ---
 [Download PDF Resume](DavidSutton.pdf)
 
-### Objective
+## Objective
 I'm currently looking for an environment to make an impact in User Experience by utilizing my unique background in both Human-Centered Design Thinking and Software Development. I’m looking for a long-term environment where I can continue to learn and grow. I'm very self-motivated, and love to work with growing organizations to establish a culture of human-centered product design.
 
 I take a lot of pride in my ability to efficiently coordinate across departments and problem-solve with my team to find efficient solutions to complex business and user needs. I’m passionate about what can be accomplished with rapid iterative development, agile methodology, and human-centered design and the impact it can have for not only our products, but also for our users.
 I’m currently freelancing and instructing part-time while organizing Upstate UX, a design organization I started for Rochester User Experience professionals. 
 
-Recent Projects:
+#### Recent Projects:
 - Spoke at RIT's National Technical Institute for the Deaf on the topic of Web Accessibility and Human-Centered Design.
 - Instruction and facilitation for IDEO certification courses for a group of around one hundred students and design professionals in Rochester.
 - Upstate UX symposium on inclusivness/diversity in our industry.
