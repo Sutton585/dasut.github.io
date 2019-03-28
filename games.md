@@ -10,7 +10,7 @@ layout: nonHome
 
 After winning Exhibitor Magazine’s 2017 Sizzle Award for our interactive booth at the annual ExhibitorLive, the premier Conference for Trade Show and Corporate Event Marketing, my group (Mirror Show Management) wanted to up the ante in 2018 with a fully interactive multiplayer game-show-in-a-booth. My experience in Game Design, UX  and Product Design helped us great a truly unique gaming experience.
 
-**[READ MORE...](MaxImpact)
+**[READ MORE...](MaxImpact)**
 
 ### Card Game Design
 
