@@ -4,7 +4,7 @@ layout: nonHome
 
 >**Disclaimer:** Please understand that this is not an exhaustive list of all my work, it’s a taste of what I do to give you a feel for who I am. In order to comply with non-disclosure agreements, __I do not make available much of the visuals I have done (epecially Xerox and Apple) unless express permission is given.__
 
-*This portfolio is being totally re-done and redesigned with case studies, design samples, and more written content about the work. Plpease pardon the dust as it's all being temporarily dumped onto this page while I build out the new portfolio.*
+**This portfolio is being totally re-done and redesigned with case studies, visual design samples, and more written content about the work. Please pardon the dust (external links, etc.) as it's all being temporarily dumped onto this page while I build the new portfolio.**
 
 ## Xerox UI/UX and Product Design Work
 
