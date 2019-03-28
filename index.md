@@ -28,7 +28,9 @@ Concentrations:
 - Interaction Design, User Experience
 - Web Design and Development
 
-Education focused on user interface design, user-centered iterative design practices, web development. **[READ MORE HERE...](IxD)**
+Education focused on user interface design, user-centered iterative design practices, web development.
+
+**[READ MORE HERE...](IxD)**
 
 Founded and operated student organization based on practice and education in the areas of iterative prototype-driven testing and development processes in the field of game design. Upon graduation, this organization was handed off to RIT faculty and is now run as an important and very active part of their game design school.
 
