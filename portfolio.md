@@ -16,7 +16,7 @@ I was brought on as the UI Design specialist at Xerox in Webster, NY in the Expe
 
 My experience in Game Design, UX  and Product Design helped us design a truly unique gaming experience for Mirror Show Managment. The physical design consisted of three touch screen kiosks that registered players and their game pieces via RFID technology, allowing up to 3 parties to compete in a Monopoly-inspired board game with an industry-specific twist. The game board and scores were displayed on six foot by six foot LED/LCD displays in the center of the booth, allowing players and spectators to see the impact of everyone’s game play choices in real time.
 
-**[READ MORE...](MaxImpact)
+**[READ MORE...](MaxImpact)**
 
 ## Interaction Design Projects
 
