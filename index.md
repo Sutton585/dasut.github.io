@@ -96,6 +96,7 @@ Trained in the Luma Institute’s program on practices for innovation in human-c
 Topics include: Leading a Culture of Innovation, Brainstorming, Problem Framing, Rapid Iteration and Product Testing, Prototyping, Ethnographic Research, User-testing and Interpretation.
 
 **[READ MORE HERE...](xerox)**
+
 <!-- 
 
 ## Technical Proficiencies
