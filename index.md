@@ -2,8 +2,7 @@
 layout: default
 ---
 **[DOWNLOAD PDF RESUME](DavidSutton.pdf)**
-
-**[VIEW PORTFOLIO](portfolio)**
+<div style="text-align: right"> **[VIEW PORTFOLIO](portfolio)** </div>*
 
 ## Objective
 I'm currently looking for an environment to make an impact in User Experience by utilizing my unique background in both Human-Centered Design Thinking and Software Development. I’m looking for a long-term environment where I can continue to learn and grow. I'm very self-motivated, and love to work with growing organizations to establish a culture of human-centered product design.
