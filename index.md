@@ -55,7 +55,7 @@ At Mirror Show, I work to create unique memorable experiences that companies use
 
 This role takes a leadership position in many important parts of the product development life-cycle: brainstorming/ideation, presenting design to stakeholders, clarifying direction and scope, documentation, recruitment and management of development teams working in an agile environment, ensuring on-schedule delivery by hitting target dates, providing transparency for all stakeholders with regular releases, updates and testing, re-iteration and deployment of product, and gathering metrics along the way that can help us on our next release.
 
-**[DESIGN EXAMPLES HERE](maxImpact)**
+**[DESIGN EXAMPLES HERE](MaxImpact)**
 
 ### Xerox
 - UX/UI Interaction Design

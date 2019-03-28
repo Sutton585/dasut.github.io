@@ -5,7 +5,7 @@ layout: nonHome
 ## Xerox
 Hired via Comforce as UI Design specialist at Xerox in Webster, NY in the Experience Design Group. I worked to shape the user experience across the product's web and mobile interfaces as well as the product's onboard touchscreen UI. 
 
-####Visuals:####
+#### Visuals
 - [UI Design for Newest Xerox Products](https://www.xerox.com/en-us/connectkey/touchscreen-interface)
 - Take the primary UI for a spin with this
 [Functional Prototype.](http://a400.g.akamai.net/7/400/5566/v0001/xerox.download.akamai.com/5566/VersaLinkSIM/index.htm)
@@ -23,8 +23,8 @@ The product received a lot of positive attention in the industry because of it's
 - [Xerox Summary of Reviews](http://connect.blogs.xerox.com/2017/02/28/the-reviews-are-in-and-theyre-winners/)
 - [Complete review from BuyersLab](https://www.buyerslab.com/News/Industry-News/2016/November/New-Xerox-Color-Printer-and-MFP-for-Small-Offices), the standard for high-quality testing of document and digital imaging products.
 
-### LUMA
-While at Xerox I was certified in the Luma Institute’s program on practices for innovation in Human-Centered Design. I progressed all the way through the advanced HCD courses, gaining certification as an instructor and facilitator of Luma’s courses and putting their techniques into practice in cross-departmental teams. 
+## LUMA Certification
+While at Xerox I was certified in the Luma Institute’s program on practices for Innovation in Human-Centered Design. I progressed all the way through the advanced HCD courses, gaining certification as an instructor and facilitator of Luma’s courses and putting their techniques into practice in cross-departmental teams. 
 
 Topics include:
 - Leading a Culture of Innovation
