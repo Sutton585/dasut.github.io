@@ -6,7 +6,7 @@ layout: nonHome
 
 I’m currently working to migrate a very large and very active group from an old email-based communication platform (ListServ) onto a whole new platform. This has been a very interesting ongoing project, and I’m learning a lot about different tech solutions for to fit the user and business needs.
 
-## Notes on Share-able Recent Development Work 
+## Notes on Recent Work 
 
 ### [microbiologynetwork.com](http://microbiologynetwork.com)
   - Designed then handed off for development with the company's proprietary CMS. (I do not recommend, many issues with the responsive design)

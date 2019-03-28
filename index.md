@@ -3,11 +3,17 @@ layout: default
 ---
 [Download PDF Resume](DavidSutton.pdf)
 
-I'm currently looking for an environment to make an impact in User Experience by utilizing my unique background in both Human-Centered Design Thinking and Software Development. I’m looking for a long term environment where I can continue to learn and grow. I’m currently freelancing and teaching part-time at RIT and MCC while organizing Upstate UX, a design organization I started for Rochester User Experience professionals. I'm very self-motivated, and love to work with growing organizations to establish a culture of human-centered product design.
+### Objective
+I'm currently looking for an environment to make an impact in User Experience by utilizing my unique background in both Human-Centered Design Thinking and Software Development. I’m looking for a long-term environment where I can continue to learn and grow. I'm very self-motivated, and love to work with growing organizations to establish a culture of human-centered product design.
 
-I recently taught at RIT on the topic of Web Accessibility and Human-Centered Design. In January, I began instruction and facilitation for IDEO certification courses for a group of around 100 students. My goal is to enable anyone in Rochester with any experience level with an interest to attend the free nine-week course at RIT to get their first industry certification from IDEO, a global design leader and trailblazer of human-centered design and accessibility.
+I take a lot of pride in my ability to efficiently coordinate across departments and problem-solve with my team to find efficient solutions to complex business and user needs. I’m passionate about what can be accomplished with rapid iterative development, agile methodology, and human-centered design and the impact it can have for not only our products, but also for our users.
+I’m currently freelancing and instructing part-time while organizing Upstate UX, a design organization I started for Rochester User Experience professionals. 
 
-I take a lot of pride in my ability to efficiently coordinate across departments and problem-solve with my team to find efficient solutions to complex business and user needs. I’m passionate about what can be accomplished with rapid iterative development, agile methodology, and human-centered design and the impact it can have for not only our products, but also for our customers.
+Recent Projects:
+- Spoke at RIT's National Technical Institute for the Deaf on the topic of Web Accessibility and Human-Centered Design.
+- Instruction and facilitation for IDEO certification courses for a group of around one hundred students and design professionals in Rochester.
+- Upstate UX symposium on inclusivness/diversity in our industry.
+- Creating web-based solutions for Rochester companies through my freelance and contract work.
 
 <!-- 
 I'm passionate about collaborative product development groups, user-centered design, development, innovation, and ethical design. Currently looking for a long term environment to make an impact by utilizing my unique background in human-centered UX design and software development. I want to find an opportunity to hone my skills further, while making intuitively-designed products to serve both user needs and business needs.
@@ -22,9 +28,9 @@ Concentrations:
 - Interaction Design, User Experience
 - Web Design and Development
 
-Education focused on user interface design, user-centered iterative design practices, web development.
+Education focused on user interface design, user-centered iterative design practices, web development. **[READ MORE HERE...](IxD)**
 
-Founded and operated student organization based on practice and education in the areas of iterative prototype-driven testing and development processes in the field of game design. Upon graduation, this organization was handed off to RIT faculty and is now run as an important part of their game design school.
+Founded and operated student organization based on practice and education in the areas of iterative prototype-driven testing and development processes in the field of game design. Upon graduation, this organization was handed off to RIT faculty and is now run as an important and very active part of their game design school.
 
 ## Recent Employment History
 
@@ -36,7 +42,7 @@ Throughout my career, it’s been really valuable for me to freelance to keep bu
 
 Much of my UX work involves being a Subject Matter Expert (SME) on digital accessibility and conducting usability assessments against industry standards like the Web Content Accessibility Guidelines (WCAG), and developing design documents like personas, storyboards, business plans, launch schedules, competitive assessments and product strategy work to lead cross-departmental collaboration efforts.
 
-**More detail on [web development work](webDevelopment) (Including iterations of this site!)** 
+**[READ MORE HERE...](webDevelopment)** 
 
 #### Educational and Instructional Work
 Through my group Upstate UX, I've been leading symposiums, workshop events, and panel discussions; I was also recently was a guest speaker at RIT's National Technical Institute for the Deaf, teaching Hearing Inpared students UX/UI Design concepts for mobile design. Beginning in 2019, I will be leading courses for certification by IDEO for interested potential designers of any experience level.
@@ -48,6 +54,8 @@ Through my group Upstate UX, I've been leading symposiums, workshop events, and 
 At Mirror Show, I work to create unique memorable experiences that companies use to represent themselves and their product at trade shows around the world. Since this is a smaller company, I've had the opportunity to “wear many hats” and find interesting ways to use my human-centered design principles to create and articulate our design direction. In this role I design experiences with interesting bleeding-edge technology and even create one-of-a-kind technology solutions for the needs of the our clients.
 
 This role takes a leadership position in many important parts of the product development life-cycle: brainstorming/ideation, presenting design to stakeholders, clarifying direction and scope, documentation, recruitment and management of development teams working in an agile environment, ensuring on-schedule delivery by hitting target dates, providing transparency for all stakeholders with regular releases, updates and testing, re-iteration and deployment of product, and gathering metrics along the way that can help us on our next release.
+
+**[DESIGN EXAMPLES HERE](maxImpact)**
 
 ### Xerox
 - UX/UI Interaction Design
@@ -62,6 +70,8 @@ Hired via Comforce as UI Design specialist at Xerox in Webster, NY in the Experi
 
 I was involved in every stage from wireframes and storyboards, building and user-testing prototypes at various levels of fidelity, and eventually overseeing the implementation and development of the features in the product itself. I was also responsible for all design and functional documentation of my products including style guides and layout guides, user experience standards, and keeping everything current and consistent across platforms in a rapidly-changing large-scale development environment with shifting priorities and timelines.
 
+**[READ MORE HERE...](xerox)**
+
 ### Apple
 - UX User Interface Developer
 - 2013 - 2014
@@ -73,14 +83,17 @@ Hired via Infosys Ltd. to be a UI/UX consultant at Apple Inc. in Cupertino, Cali
 ### Upstate User Experience Group
 I founded UpstateUX.com for designers, developers, and students to learn, teach, and collaborate in the Rochester area. We do workshops, conferences, networking events, Q & A discussions, professional development training and general community outreach. My goal is to see this group of amazing design professionals scale beyond the limits of what I can accomplish out-of-pocket.
 
+**[HOME PAGE HERE...](https://upstateux.com)**
+
 ### Crashtest Games
 Founded Crashtest Games, a very active design community at Rochester Institute of Technology. This is a resource to connect creators and users in a supportive and constructive social environment. The primary focus is encouraging proper iterative design processes via user-testing of products/games. Multiple weekly gatherings for different focuses of the group, as well as many yearly and bi-yearly events.
 
 ### Luma Institute’s “Innovation through Human-Centered Design“
-Trained in the Luma Institute’s program on practices for innovation in human-centered design. Progressed all the way through the advanced HCD courses, gaining certification as an instructor and facilitator of the Luma’s courses and putting their techniques into practice in cross-departmental teams. 
+Trained in the Luma Institute’s program on practices for innovation in human-centered design. Progressed all the way through the advanced HCD courses, gaining certification as an instructor and facilitator of Luma’s courses and putting their techniques into practice in cross-departmental teams. 
 
 Topics include: Leading a Culture of Innovation, Brainstorming, Problem Framing, Rapid Iteration and Product Testing, Prototyping, Ethnographic Research, User-testing and Interpretation.
 
+**[READ MORE HERE...](xerox)**
 <!-- 
 
 ## Technical Proficiencies
