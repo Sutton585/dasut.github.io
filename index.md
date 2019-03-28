@@ -2,6 +2,7 @@
 layout: default
 ---
 **[DOWNLOAD PDF RESUME](DavidSutton.pdf)**
+
 **[PORTFOLIO HERE](portfolio)**
 
 ## Objective
