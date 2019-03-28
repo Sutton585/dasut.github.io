@@ -27,6 +27,7 @@ Human-Centered Computing (Information Technology) 2014
 Concentrations:
 - Interaction Design, User Experience
 - Web Design and Development
+
 **[READ MORE HERE...](IxD)**
 
 Education focused on user interface design, user-centered iterative design practices, web development.
