@@ -10,19 +10,13 @@ layout: nonHome
 
 I was brought on as the UI Design specialist at Xerox in Webster, NY in the Experience Design Group for the new generation of mobile-like interfaces. I work mostly in the design and development of UI for touchscreen devices. Integrating iterative user-centered design principles into product design and information architecture design.
 
-**[READ MORE](xerox)**
+**[READ MORE...](xerox)**
 
-## Interaction Design Overview
+## Interaction Design Projects
 
-### [Description of Interaction Design Program](/IndStudyNotes.html)
+During my time at Rochester Institute of Technology, my concentrations were related to Interaction Design an Web Design/Development. Since there wasn't a formal school for Interaction Design, a lot of the work was driven independent study and by one-on-one work with professors.
 
-This is a description of areas of study involved in a course designed for my IT concentration Interactive Design at Rochester Institute of Technology.
-
-### [Iterative Design Documentation](IDgeneral)
-
-In a section of my Interactive Design HCI concentration, I wrote about how to streamline a process for user-centric iterative design that focused on quickly moving from user testing to design revisions. This is the first half of that report.
-My original hypothesis was that I would create a tiny easy to run project, and let future revisions be completely dictated by what could be learned from user-testing. This requires very fast prototyping and streamlined testing.
-The specifics of the exact project used as a proof-of-concept are in another document.
+**[READ MORE...](IxD)**
 
 ## Trello Job App
 
