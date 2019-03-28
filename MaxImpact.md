@@ -6,7 +6,7 @@ layout: nonHome
 
 After winning Exhibitor Magazine’s 2017 Sizzle Award for our interactive booth at the annual ExhibitorLive, the premier Conference for Trade Show and Corporate Event Marketing, my group (Mirror Show Management) wanted to up the ante in 2018 with a fully interactive multiplayer game-show-in-a-booth. My experience in Game Design, UX  and Product Design helped us great a truly unique gaming experience.
 
-["Maximum Impact" Teaser](https://www.mirrorshow.com/blog/where-will-you-be-on-february-25th)
+**Read the ["Maximum Impact" Teaser](https://www.mirrorshow.com/blog/where-will-you-be-on-february-25th) sent out to attendees.**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6Si2fIms97g" frameborder="0" allowfullscreen></iframe>
 *Video of the interactive screens being tested.*
 
