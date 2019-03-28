@@ -22,8 +22,8 @@ Development work on this product was contracted through [Workinman Interactive:]
 
 [More on "Maximum Impact"](https://www.mirrorshow.com/blog/three-time-tested-tips-for-making-gamification-work)
 
-<img src="{{site.baseurl}}/assets/img/MaxImpactBooth.jpg">
-<img src="{{site.baseurl}}/assets/img/MaxImpactGame.jpg">
+<img src="{{site.baseurl}}/assets/images/MaxImpactBooth.jpg">
+<img src="{{site.baseurl}}/assets/images/MaxImpactGame.jpg">
 
 ### Card Game Design
 
