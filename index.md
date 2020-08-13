@@ -38,36 +38,11 @@ Founded and operated student organization based on practice and education in the
 
 ## Recent Employment History
 
-### Web Design/Development and Educational Work
-- 2010 - Current
-
-#### Web Design/Dev & UX Consulting
-Throughout my career, it’s been really valuable for me to freelance to keep building a steady stream of experience with varied technology in web design and development. By working with lots of very different clients, I encounter a lot of really interesting design challenges that I would never encounter in larger organizations.
-
-Much of my UX work involves being a Subject Matter Expert (SME) on digital accessibility and conducting usability assessments against industry standards like the Web Content Accessibility Guidelines (WCAG), and developing design documents like personas, storyboards, business plans, launch schedules, competitive assessments and product strategy work to lead cross-departmental collaboration efforts.
-
-**[READ MORE HERE...](webDevelopment)** 
-
 ### Verizon and Other local SMB Organizations
 - SMB Solutions Design Specialist
 - 2018- PRESENT
 
 Innovation B2B consultant for many local businesses via Verizon partnership, responsible for opportunities to innovate existing processes, services, and products using connected technology. Acted as Subject Matter Expert on overall Design and Gamification in creation of large-scale system for employee engagement and retention. Designed systems for fleet management, sales and repair staff documentation/metrics and real-time monitoring of mission-critical business processes.
-
-#### Educational and Instructional Work
-- ONGOING
-
-Through my group Upstate UX, I've been leading symposiums, workshop events, and panel discussions; I was also recently was a guest speaker at RIT's National Technical Institute for the Deaf, teaching Hearing Impaired students UX/UI Design concepts for mobile design. Beginning in 2019, I will be leading courses for certification by IDEO for interested potential designers of any experience level.
-
-### Mirror Show Management
-- Interaction Design
-- 2017 - 2018
-
-At Mirror Show Management, I work to create unique memorable experiences that companies use to represent themselves and their product at trade shows around the world. Since this is a smaller company, I've had the opportunity to “wear many hats” and find interesting ways to use my human-centered design principles to create and articulate our design direction. In this role I design experiences with interesting bleeding-edge technology and even create one-of-a-kind technology solutions for the needs of the our clients.
-
-This role takes a leadership position in many important parts of the product development life-cycle: brainstorming/ideation, presenting design to stakeholders, clarifying direction and scope, documentation, recruitment and management of development teams working in an agile environment, ensuring on-schedule delivery by hitting target dates, providing transparency for all stakeholders with regular releases, updates and testing, re-iteration and deployment of product, and gathering metrics along the way that can help us on our next release.
-
-**[DESIGN EXAMPLES HERE](MaxImpact)**
 
 ### Xerox
 - UX/UI Interaction Design
@@ -89,6 +64,29 @@ Actively involved in every stage of the iterative Agile processes from wireframe
 - 2013 - 2014
 
 UI/UX consultant at Apple Inc. in Cupertino, California headquarters. Responsible for design and development of several new product UI, with a focus on rapid prototyping and web applications development. Primary focus in front-end development and design, as well as technical product management.
+
+### Web Design/Development and Educational Work
+- 2010 - Current
+
+#### Web Design/Dev & UX Consulting
+Working with various local SMB organizations, much of my UX work involves being a Subject Matter Expert (SME) on digital accessibility and conducting usability assessments against industry standards like the Web Content Accessibility Guidelines (WCAG), and developing design documents like personas, storyboards, business plans, launch schedules, competitive assessments and product strategy work to lead cross-departmental collaboration efforts.
+
+**[READ MORE HERE...](webDevelopment)** 
+
+#### Educational and Instructional Work
+- ONGOING
+
+Through my group Upstate UX, I've been leading symposiums, workshop events, and panel discussions; I was also recently was a guest speaker at RIT's National Technical Institute for the Deaf, teaching Hearing Impaired students UX/UI Design concepts for mobile design. Beginning in 2019, I will be leading courses for certification by IDEO for interested potential designers of any experience level.
+
+### Mirror Show Management
+- Interaction Design
+- 2017 - 2018
+
+At Mirror Show Management, I work to create unique memorable experiences that companies use to represent themselves and their product at trade shows around the world. Since this is a smaller company, I've had the opportunity to “wear many hats” and find interesting ways to use my human-centered design principles to create and articulate our design direction. In this role I design experiences with interesting bleeding-edge technology and even create one-of-a-kind technology solutions for the needs of the our clients.
+
+This role takes a leadership position in many important parts of the product development life-cycle: brainstorming/ideation, presenting design to stakeholders, clarifying direction and scope, documentation, recruitment and management of development teams working in an agile environment, ensuring on-schedule delivery by hitting target dates, providing transparency for all stakeholders with regular releases, updates and testing, re-iteration and deployment of product, and gathering metrics along the way that can help us on our next release.
+
+**[DESIGN EXAMPLES HERE](MaxImpact)**
 
 ## Other Experience
 
