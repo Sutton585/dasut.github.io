@@ -1,19 +1,21 @@
 ---
 layout: default
 ---
-**[VIEW PORTFOLIO](portfolio)**     or     **[DOWNLOAD PDF RESUME](DavidSutton.pdf)**
+**[VIEW PORTFOLIO](portfolio)**     or     **[DOWNLOAD PDF RESUME](DavidSuttonResume.pdf)**
 
 ## Objective
-I'm currently looking for an environment to make an impact in User Experience by utilizing my unique background in both Human-Centered Design Thinking and Software Development. I’m looking for a long-term environment where I can continue to learn and grow. I'm very self-motivated, and love to work with growing organizations to establish a culture of human-centered product design.
+I'm currently looking for an environment to make an impact by utilizing my unique background in both Human-Centered Design Thinking and Software Development. I’m looking for a long-term environment where I can continue to learn and grow. I'm very self-motivated, and love to work with growing organizations to establish a culture of human-centered product design.
 
 I take a lot of pride in my ability to efficiently coordinate across departments and problem-solve with my team to find efficient solutions to complex business and user needs. I’m passionate about what can be accomplished with rapid iterative development, agile methodology, and human-centered design and the impact it can have for not only our products, but also for our users.
 I’m currently freelancing and instructing part-time while organizing Upstate UX, a design organization I started for Rochester User Experience professionals. 
 
 #### Recent Projects:
 - Spoke at RIT's National Technical Institute for the Deaf on the topic of Web Accessibility and Human-Centered Design.
-- Instruction and facilitation for IDEO certification courses for a group of around one hundred students and design professionals in Rochester.
-- Upstate UX symposium on inclusivness/diversity in our industry.
-- Creating web-based solutions for Rochester companies through my freelance and contract work.
+- Instruction and facilitation for IDEO certification courses for a group of around one hundred students and design professionals at Rochester Institute of Technology.
+- Upstate UX symposium on inclusiveness/diversity in our industry.
+- Creating web-based solutions for Rochester companies.
+- Earned awards and recognition for designing and implementing connected tech solutions for local SMB organizations in Upstate New York.
+- Designed for popular brands like Apple, Xerox, Verizon, Pepsico, Gatorade.
 
 <!-- 
 I'm passionate about collaborative product development groups, user-centered design, development, innovation, and ethical design. Currently looking for a long term environment to make an impact by utilizing my unique background in human-centered UX design and software development. I want to find an opportunity to hone my skills further, while making intuitively-designed products to serve both user needs and business needs.
@@ -46,14 +48,22 @@ Much of my UX work involves being a Subject Matter Expert (SME) on digital acces
 
 **[READ MORE HERE...](webDevelopment)** 
 
+### Verizon and Other local SMB Organizations
+- SMB Solutions Design Specialist
+- 2018- PRESENT
+
+Innovation B2B consultant for many local businesses via Verizon partnership, responsible for opportunities to innovate existing processes, services, and products using connected technology. Acted as Subject Matter Expert on overall Design and Gamification in creation of large-scale system for employee engagement and retention. Designed systems for fleet management, sales and repair staff documentation/metrics and real-time monitoring of mission-critical business processes.
+
 #### Educational and Instructional Work
-Through my group Upstate UX, I've been leading symposiums, workshop events, and panel discussions; I was also recently was a guest speaker at RIT's National Technical Institute for the Deaf, teaching Hearing Inpared students UX/UI Design concepts for mobile design. Beginning in 2019, I will be leading courses for certification by IDEO for interested potential designers of any experience level.
+- ONGOING
+
+Through my group Upstate UX, I've been leading symposiums, workshop events, and panel discussions; I was also recently was a guest speaker at RIT's National Technical Institute for the Deaf, teaching Hearing Impaired students UX/UI Design concepts for mobile design. Beginning in 2019, I will be leading courses for certification by IDEO for interested potential designers of any experience level.
 
 ### Mirror Show Management
 - Interaction Design
 - 2017 - 2018
 
-At Mirror Show, I work to create unique memorable experiences that companies use to represent themselves and their product at trade shows around the world. Since this is a smaller company, I've had the opportunity to “wear many hats” and find interesting ways to use my human-centered design principles to create and articulate our design direction. In this role I design experiences with interesting bleeding-edge technology and even create one-of-a-kind technology solutions for the needs of the our clients.
+At Mirror Show Management, I work to create unique memorable experiences that companies use to represent themselves and their product at trade shows around the world. Since this is a smaller company, I've had the opportunity to “wear many hats” and find interesting ways to use my human-centered design principles to create and articulate our design direction. In this role I design experiences with interesting bleeding-edge technology and even create one-of-a-kind technology solutions for the needs of the our clients.
 
 This role takes a leadership position in many important parts of the product development life-cycle: brainstorming/ideation, presenting design to stakeholders, clarifying direction and scope, documentation, recruitment and management of development teams working in an agile environment, ensuring on-schedule delivery by hitting target dates, providing transparency for all stakeholders with regular releases, updates and testing, re-iteration and deployment of product, and gathering metrics along the way that can help us on our next release.
 
@@ -68,9 +78,9 @@ Hired via Comforce as UI Design specialist at Xerox in Webster, NY in the Experi
 I was responsible for all design and functional documentation of my products including style guides and layout guides, user experience standards, and keeping everything current and consistent across platforms in a rapidly-changing development environment.
 -->
 
-Hired via Comforce as UI Design specialist at Xerox in Webster, NY in the Experience Design Group. I worked to shape the user experience across the product's web and mobile interfaces as well as the product's onboard touchscreen UI. While there I was certified in Luma’s “Innovation Through Human-Centered Design” program to lead many valuable processes (such as persona development, user research, and ideation and brainstorming processes for stakeholders) to translate strategy, business requirements and usability best practices into best-in-class digital experiences.
+UI Design specialist at Xerox in Webster, NY in the Experience Design Group via Comforce. I worked to shape the user experience across the product's web and mobile interfaces as well as the product's onboard touchscreen UI. While there I was certified in Luma’s “Innovation Through Human-Centered Design” program to lead many valuable processes (such as persona development, user research, and ideation and brainstorming processes for stakeholders) to translate strategy, business requirements and usability best practices into best-in-class digital experiences.
 
-I was involved in every stage from wireframes and storyboards, building and user-testing prototypes at various levels of fidelity, and eventually overseeing the implementation and development of the features in the product itself. I was also responsible for all design and functional documentation of my products including style guides and layout guides, user experience standards, and keeping everything current and consistent across platforms in a rapidly-changing large-scale development environment with shifting priorities and timelines.
+Actively involved in every stage of the iterative Agile processes from wireframes and storyboards, building and user-testing prototypes at various levels of fidelity, and eventually overseeing the implementation and development of the features in the product itself. Responsible for all design and functional documentation of my products including style guides and layout guides, user experience standards, and keeping everything current and consistent across platforms in a rapidly-changing large-scale development environment with shifting priorities and timelines.
 
 **[READ MORE HERE...](xerox)**
 
@@ -78,7 +88,7 @@ I was involved in every stage from wireframes and storyboards, building and user
 - UX User Interface Developer
 - 2013 - 2014
 
-Hired via Infosys Ltd. to be a UI/UX consultant at Apple Inc. in Cupertino, California. I was responsible for the design and development of several new product UI, with a focus on rapid prototyping and web applications development. Primary focus in front-end development and design, as well as technical product management.
+UI/UX consultant at Apple Inc. in Cupertino, California headquarters. Responsible for design and development of several new product UI, with a focus on rapid prototyping and web applications development. Primary focus in front-end development and design, as well as technical product management.
 
 ## Other Experience
 
