@@ -66,7 +66,7 @@ Actively involved in every stage of the iterative Agile processes from wireframe
 UI/UX consultant at Apple Inc. in Cupertino, California headquarters. Responsible for design and development of several new product UI, with a focus on rapid prototyping and web applications development. Primary focus in front-end development and design, as well as technical product management.
 
 ### Web Design/Development and Educational Work
-- 2010 - Current
+- 2010 - PRESENT
 
 #### Web Design/Dev & UX Consulting
 Working with various local SMB organizations, much of my UX work involves being a Subject Matter Expert (SME) on digital accessibility and conducting usability assessments against industry standards like the Web Content Accessibility Guidelines (WCAG), and developing design documents like personas, storyboards, business plans, launch schedules, competitive assessments and product strategy work to lead cross-departmental collaboration efforts.
