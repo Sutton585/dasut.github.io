@@ -38,7 +38,7 @@ Founded and operated student organization based on practice and education in the
 
 ## Recent Employment History
 
-### Verizon and Other local SMB Organizations
+### Verizon and Other Upstate SMB Organizations
 - SMB Solutions Design Specialist
 - 2018- PRESENT
 
