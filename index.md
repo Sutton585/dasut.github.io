@@ -17,11 +17,6 @@ I’m currently freelancing and instructing part-time while organizing Upstate U
 - Earned awards and recognition for designing and implementing connected tech solutions for local SMB organizations in Upstate New York.
 - Designed for popular brands like Apple, Xerox, Verizon, Pepsico, Gatorade.
 
-<!-- 
-I'm passionate about collaborative product development groups, user-centered design, development, innovation, and ethical design. Currently looking for a long term environment to make an impact by utilizing my unique background in human-centered UX design and software development. I want to find an opportunity to hone my skills further, while making intuitively-designed products to serve both user needs and business needs.
-
-Founder and Organizer of Upstate UX, an organization for User Experience Professionals in Rochester to get together, share knowledge, attend conferences, do workshops and Q & A sessions, and mentor junior designers through our collaboration with local design schools. Through this organization, I've been able to lead many events including our recent symposium about Diversity and Inclusion in Design, and I recently presented as a guest speaker at RIT's National Technical Institute for the Deaf, teaching students the concepts of UX/UI Design.
--->
 ## Education
 
 ### Rochester Institute of Technology 
@@ -42,16 +37,11 @@ Founded and operated student organization based on practice and education in the
 - SMB Solutions Design Specialist
 - 2018- PRESENT
 
-Innovation B2B consultant for many local businesses via Verizon partnership, responsible for opportunities to innovate existing processes, services, and products using connected technology. Acted as Subject Matter Expert on overall Design and Gamification in creation of large-scale system for employee engagement and retention. Designed systems for fleet management, sales and repair staff documentation/metrics and real-time monitoring of mission-critical business processes.
+Solutions Design expert for many local businesses via Telecommunications partnerships, responsible for opportunities to innovate existing business processes, services, and products using connected technology. Acted as Subject Matter Expert on overall Design and Gamification in creation of large-scale system for employee engagement and retention. Designed systems for fleet management, sales and repair staff documentation/metrics and real-time monitoring of mission-critical business processes.
 
 ### Xerox
 - UX/UI Interaction Design
 - 2015 - 2017
-
-<!--
-Hired via Comforce as UI Design specialist at Xerox in Webster, NY in the Experience Design Group. I worked to shape the user experience across the product's web and mobile interfaces as well as the product's onboard touchscreen UI. While there I was certified in Luma’s “Innovation Through Human-Centered Design” program to lead many valuable processes (such as persona development, user research, and ideation and brainstorming processes for stakeholders) to translate strategy, business requirements and usability best practices into best-in-class digital experiences.
-I was responsible for all design and functional documentation of my products including style guides and layout guides, user experience standards, and keeping everything current and consistent across platforms in a rapidly-changing development environment.
--->
 
 UI Design specialist at Xerox in Webster, NY in the Experience Design Group via Comforce. I worked to shape the user experience across the product's web and mobile interfaces as well as the product's onboard touchscreen UI. While there I was certified in Luma’s “Innovation Through Human-Centered Design” program to lead many valuable processes (such as persona development, user research, and ideation and brainstorming processes for stakeholders) to translate strategy, business requirements and usability best practices into best-in-class digital experiences.
 
