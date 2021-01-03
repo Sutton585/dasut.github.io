@@ -10,7 +10,7 @@ I take a lot of pride in my ability to efficiently coordinate across departments
 I’m currently freelancing and instructing part-time while organizing Upstate UX, a design organization I started for Rochester User Experience professionals. 
 
 #### Recent Projects:
-- Spoke at RIT's National Technical Institute for the Deaf on the topic of Web Accessibility and Human-Centered Design.
+- Taught at RIT's National Technical Institute for the Deaf on the topic of Web Accessibility and Human-Centered Design.
 - Instruction and facilitation for IDEO certification courses for a group of around one hundred students and design professionals at Rochester Institute of Technology.
 - Upstate UX symposium on inclusiveness/diversity in our industry.
 - Creating web-based solutions for Rochester companies.
