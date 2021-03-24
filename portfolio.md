@@ -2,8 +2,9 @@
 layout: nonHome
 ---
 
->**Disclaimer:** Please understand that this is not an exhaustive list of all my work, it’s a taste of what I do to give you a feel for who I am. In order to comply with non-disclosure agreements, __I do not make available much of the visuals I have done (epecially Xerox and Apple) unless express permission is given.__
+>**Disclaimer:** In order to comply with non-disclosure agreements, __I do not make available much of the visuals I have done (epecially Xerox and Apple) unless express permission is given.__
 
+>[Jared Spool's Mistakes to Avoid When Hiring via Portfolio Review](https://articles.uie.com/reviewing-ux-portfolios-4-high-risk-hiring-mistakes/) is worth reading. Especially Mistake #2.
 ## Telecom/B2B Connected Solutions Design
 Solutions Design expert for many local businesses via Telecommunications partnerships, responsible for opportunities to innovate existing business processes, services, and products using connected technology. Acted as Subject Matter Expert on overall Design and Gamification in creation of large-scale system for employee engagement and retention. Designed systems for fleet management, sales and repair staff documentation/metrics and real-time monitoring of mission-critical business processes.
 
