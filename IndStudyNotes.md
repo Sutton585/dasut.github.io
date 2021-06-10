@@ -1,6 +1,3 @@
----
-layout: nonHome
----
 
 # Indepent Study #3 Overall Data/Notes
 

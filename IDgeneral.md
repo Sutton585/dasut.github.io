@@ -1,6 +1,3 @@
----
-layout: nonHome
----
 
 # Why Iterative Design?
 

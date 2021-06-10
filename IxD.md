@@ -1,6 +1,3 @@
----
-layout: nonHome
----
 
 ## Interaction Design
 During my time at Rochester Institute of Technology, my concentrations were related to Interaction Design an Web Design/Development. Since there wasn't a formal school for Interaction Design, a lot of the work was driven independent study and by one-on-one work with professors.

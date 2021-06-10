@@ -1,6 +1,3 @@
----
-layout: nonHome
----
 
 ## Playtest Notes
 ### 9/21/14

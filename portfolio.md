@@ -1,6 +1,3 @@
----
-layout: nonHome
----
 
 >**Disclaimer:** In order to comply with non-disclosure agreements, __I do not make available much of the visuals I have done (epecially Xerox and Apple) unless express permission is given.__
 

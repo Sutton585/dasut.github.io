@@ -1,6 +1,3 @@
----
-layout: nonHome
----
 
 # Social Media Interaction Element for SmartPhone Application
  

@@ -1,6 +1,3 @@
----
-layout: nonHome
----
 
 ## "Maximum Impact" Interactive Board Game Experience
 

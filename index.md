@@ -1,6 +1,4 @@
----
-layout: default
----
+
 **[VIEW PORTFOLIO](portfolio)**     or     **[DOWNLOAD PDF RESUME](DavidSuttonResume.pdf)**
 
 ## Objective

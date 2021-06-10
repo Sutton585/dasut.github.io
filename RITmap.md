@@ -1,6 +1,3 @@
----
-layout: nonHome
----
 
 ## RIT Underground Mapping Project
 

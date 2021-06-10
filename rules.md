@@ -1,6 +1,3 @@
----
-layout: nonHome
----
 
 # Dodgeball v2
 

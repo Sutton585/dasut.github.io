@@ -1,6 +1,3 @@
----
-layout: nonHome
----
 
 ## Game Design
 

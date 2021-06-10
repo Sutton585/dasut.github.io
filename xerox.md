@@ -1,6 +1,3 @@
----
-layout: nonHome
----
 
 ## Xerox
 Hired via Comforce as UI Design specialist at Xerox in Webster, NY in the Experience Design Group. I worked to shape the user experience across the product's web and mobile interfaces as well as the product's onboard touchscreen UI. 

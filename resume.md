@@ -1,6 +1,3 @@
----
-layout: default
----
 
 - [admin@dasut.net](mailto:admin@dasut.net)
 - (267) 888 6613

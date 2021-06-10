@@ -1,6 +1,3 @@
----
-layout: nonHome
----
 
 ## Online Survey Polling Notes
 
